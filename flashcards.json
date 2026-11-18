@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "chapter": 1,
+    "front": "Why is a child not simply a small adult in imaging?",
+    "back": "Age changes the likely disease, the risk of missing it, and the best test. Anatomy, growth plates, tissue composition, and ability to cooperate all differ."
+  },
+  {
+    "id": 2,
+    "chapter": 1,
+    "front": "What does ALARA stand for?",
+    "back": "As low as reasonably achievable. Use radiation only when justified and at the lowest dose that answers the clinical question."
+  },
+  {
+    "id": 3,
+    "chapter": 1,
+    "front": "What are the three steps of the ALARA approach described in this chapter?",
+    "back": "Justification (is the test needed), optimization (right protocol and limited field), and dose management (avoid repeats, extra phases, and overlap)."
+  },
+  {
+    "id": 4,
+    "chapter": 1,
+    "front": "What is the Image Gently movement?",
+    "back": "A campaign applying radiation protection specifically to children, promoting child-sized protocols and use of ultrasound or MRI when they can answer the question."
+  },
+  {
+    "id": 5,
+    "chapter": 1,
+    "front": "Why is ultrasound often first line in children?",
+    "back": "It uses no ionizing radiation, is real time and repeatable, and suits abdominal, pelvic, renal, soft tissue, and infant brain questions."
+  },
+  {
+    "id": 6,
+    "chapter": 1,
+    "front": "What are the main limits of ultrasound?",
+    "back": "It depends on operator skill, body habitus, bowel gas, and the depth of the area, and it can miss some deep or complex lesions."
+  },
+  {
+    "id": 7,
+    "chapter": 1,
+    "front": "When is CT most appropriate in a child?",
+    "back": "When speed and cross-sectional detail are essential, such as major trauma or acute intracranial disease, and the question is specific."
+  },
+  {
+    "id": 8,
+    "chapter": 1,
+    "front": "What question should precede every pediatric CT?",
+    "back": "Can this be done without CT? Every CT needs a specific clinical question attached."
+  },
+  {
+    "id": 9,
+    "chapter": 1,
+    "front": "What are the tradeoffs of MRI in children?",
+    "back": "Excellent soft tissue contrast without radiation, but long scans, noise, need for cooperation or sedation, and strict implant screening."
+  },
+  {
+    "id": 10,
+    "chapter": 1,
+    "front": "How does fluoroscopy dose get controlled?",
+    "back": "Use pulsed exposure, limit the field, know the machine settings, and record fluoroscopy time."
+  },
+  {
+    "id": 11,
+    "chapter": 1,
+    "front": "Why must sedation be planned carefully in children?",
+    "back": "Deeply sedated children cannot protect the airway the same way, so they need trained monitoring and a proper recovery area."
+  },
+  {
+    "id": 12,
+    "chapter": 1,
+    "front": "How can sedation be avoided for a young infant?",
+    "back": "Use feed and wrap technique, child life preparation, caregiver presence, and a shortened protocol that still answers the question."
+  },
+  {
+    "id": 13,
+    "chapter": 1,
+    "front": "What is the first step of the repeatable interpretation method?",
+    "back": "Read the age, clinical question, and prior imaging, then check technical quality before describing findings."
+  },
+  {
+    "id": 14,
+    "chapter": 1,
+    "front": "Which findings need a phone call before the report is finished?",
+    "back": "Critical results such as a malpositioned tube, a large pneumothorax, bowel volvulus, or an unexpected bleed."
+  },
+  {
+    "id": 15,
+    "chapter": 1,
+    "front": "What should every recommendation in a report contain?",
+    "back": "The question being asked, the appropriate test, and a realistic time frame, so follow-up has a clear purpose."
+  },
+  {
+    "id": 16,
+    "chapter": 1,
+    "front": "Why is a request saying only 'rule out pathology' unhelpful?",
+    "back": "It gives no age, symptoms, or question, forcing the radiologist to guess the protocol and likely emergency."
+  },
+  {
+    "id": 17,
+    "chapter": 2,
+    "front": "What does stability mean when choosing an imaging test?",
+    "back": "Whether breathing, circulation, and neurologic function are safe during the examination. Unstable children need a fast focused pathway."
+  },
+  {
+    "id": 18,
+    "chapter": 2,
+    "front": "What are the first three steps in choosing a pediatric test?",
+    "back": "State the clinical question and stability, name the likely diagnoses, and ask what the result will change."
+  },
+  {
+    "id": 19,
+    "chapter": 2,
+    "front": "What time horizon applies to suspected volvulus?",
+    "back": "Minutes to hours, so it needs an urgent pathway, unlike a stable congenital kidney question that can be studied as an outpatient."
+  },
+  {
+    "id": 20,
+    "chapter": 2,
+    "front": "Why is ultrasound often the first choice in children?",
+    "back": "It has no ionizing radiation, is fast, and is repeatable without cumulative dose, especially for fluid, compressible organs, and superficial masses."
+  },
+  {
+    "id": 21,
+    "chapter": 2,
+    "front": "What preparation can ultrasound need?",
+    "back": "Fasting for the gallbladder, a comfortably full bladder for pelvic studies, a warm relaxed child, and caregiver help with distraction."
+  },
+  {
+    "id": 22,
+    "chapter": 2,
+    "front": "What are the pitfalls of Doppler ultrasound?",
+    "back": "Color alone can create false flow or hide real flow problems, so it must be used with care."
+  },
+  {
+    "id": 23,
+    "chapter": 2,
+    "front": "Which structures can ultrasound miss?",
+    "back": "Deep pelvic disease, small lung lesions, complex fractures, and brainstem abnormalities."
+  },
+  {
+    "id": 24,
+    "chapter": 2,
+    "front": "What is the first test for a suspected fracture?",
+    "back": "Radiography with the correct views and a clear question, often two carefully positioned views for a joint injury."
+  },
+  {
+    "id": 25,
+    "chapter": 2,
+    "front": "When is CT the correct emergency test in a child?",
+    "back": "When speed is critical and cross-sectional detail is needed, such as major trauma or a suspected complicated intracranial emergency."
+  },
+  {
+    "id": 26,
+    "chapter": 2,
+    "front": "Why is MRI preferred for brain, spinal cord, joint, and muscle questions?",
+    "back": "It gives detailed soft tissue contrast without ionizing radiation, though it needs more time and careful screening."
+  },
+  {
+    "id": 27,
+    "chapter": 2,
+    "front": "What is the usual first test for a suspected urinary tract infection in a child?",
+    "back": "Renal and bladder ultrasound; a voiding study is considered later when reflux or a structural cause is the question."
+  },
+  {
+    "id": 28,
+    "chapter": 2,
+    "front": "What is the usual pathway for suspected appendicitis?",
+    "back": "Ultrasound first, with CT used when ultrasound is inconclusive and clinical risk remains high."
+  },
+  {
+    "id": 29,
+    "chapter": 2,
+    "front": "How is a young child with bilious vomiting evaluated?",
+    "back": "Urgently for malrotation and volvulus, starting with radiography and moving quickly to upper gastrointestinal contrast study or ultrasound per local pathway."
+  },
+  {
+    "id": 30,
+    "chapter": 2,
+    "front": "When does a febrile seizure need emergency neuroimaging?",
+    "back": "Not for a first uncomplicated seizure with return to baseline; consider it with trauma, focal findings, prolonged seizure, or known disease."
+  },
+  {
+    "id": 31,
+    "chapter": 2,
+    "front": "What should a normal result tell you before you choose a test?",
+    "back": "Whether it would be reassuring enough; if not, choose a more sensitive test rather than repeating a weaker one."
+  },
+  {
+    "id": 32,
+    "chapter": 2,
+    "front": "How should an imaging request be written?",
+    "back": "As a short clinical story with age, symptoms, examination, laboratory results, prior studies, and the question, not as a menu of tests."
+  },
+  {
+    "id": 33,
+    "chapter": 3,
+    "front": "What does ionizing radiation do to tissue?",
+    "back": "It has enough energy to remove electrons from atoms and can damage living tissue when the dose is high enough."
+  },
+  {
+    "id": 34,
+    "chapter": 3,
+    "front": "How do chest radiograph and CT doses compare?",
+    "back": "A chest radiograph usually gives a much smaller dose than a CT scan."
+  },
+  {
+    "id": 35,
+    "chapter": 3,
+    "front": "What determines fluoroscopy dose?",
+    "back": "Beam time, field size, number of images, and the child's size and position."
+  },
+  {
+    "id": 36,
+    "chapter": 3,
+    "front": "What do CTDIvol and DLP tell you?",
+    "back": "They compare protocols and detect errors, but they are not a patient's exact effective dose."
+  },
+  {
+    "id": 37,
+    "chapter": 3,
+    "front": "What is effective dose designed for?",
+    "back": "Comparing populations, not describing the exact risk for one child."
+  },
+  {
+    "id": 38,
+    "chapter": 3,
+    "front": "What is justification in ALARA?",
+    "back": "Asking whether the test needs to be done at all before choosing a protocol."
+  },
+  {
+    "id": 39,
+    "chapter": 3,
+    "front": "What is optimization in ALARA?",
+    "back": "Choosing the correct pediatric protocol and limiting the field of view to the necessary area."
+  },
+  {
+    "id": 40,
+    "chapter": 3,
+    "front": "What does Image Gently recommend?",
+    "back": "Child-sized protocols, avoiding unnecessary multiphase studies, considering ultrasound or MRI, and reviewing prior studies."
+  },
+  {
+    "id": 41,
+    "chapter": 3,
+    "front": "What are the problems with lead shielding?",
+    "back": "It can hide anatomy, create artifact, and give a false sense of protection; modern scanners use automatic exposure control."
+  },
+  {
+    "id": 42,
+    "chapter": 3,
+    "front": "Which children carry the highest sedation risk?",
+    "back": "Infants, children with airway or neurologic disease, and those already unwell."
+  },
+  {
+    "id": 43,
+    "chapter": 3,
+    "front": "What are the least invasive options before sedation?",
+    "back": "Feeding, swaddling, distraction, a parent nearby, child life support, and a shortened protocol."
+  },
+  {
+    "id": 44,
+    "chapter": 3,
+    "front": "What must be checked before giving sedation?",
+    "back": "Fasting, airway and medical history, intravenous access when indicated, and continuous monitoring by trained staff."
+  },
+  {
+    "id": 45,
+    "chapter": 3,
+    "front": "When is a sedated child ready for discharge?",
+    "back": "When breathing, saturation, heart rate, blood pressure, and alertness are safe and the airway is maintained, with clear instructions given."
+  },
+  {
+    "id": 46,
+    "chapter": 3,
+    "front": "What risks does iodinated CT contrast add?",
+    "back": "Allergic reactions and possible kidney injury, especially in an already high-risk child."
+  },
+  {
+    "id": 47,
+    "chapter": 3,
+    "front": "Which MRI contrast issues should be considered with gadolinium?",
+    "back": "Prior reaction, pregnancy status, renal disease, and repeat lifetime exposure; use the smallest useful dose."
+  },
+  {
+    "id": 48,
+    "chapter": 3,
+    "front": "What separates mild from serious contrast reactions?",
+    "back": "Mild: flushing, nausea, hives, warmth. Serious: facial or throat swelling, wheezing, low blood pressure, loss of consciousness."
+  },
+  {
+    "id": 49,
+    "chapter": 4,
+    "front": "Why must images be compared with the child's age?",
+    "back": "Children change from the first day of life, so what is normal for a newborn may be abnormal at another age."
+  },
+  {
+    "id": 50,
+    "chapter": 4,
+    "front": "What happens to skull sutures with age?",
+    "back": "They are open in infancy for brain growth and gradually narrow and fuse over years; wide sutures can be normal in a newborn."
+  },
+  {
+    "id": 51,
+    "chapter": 4,
+    "front": "What is plagiocephaly?",
+    "back": "Positional skull flattening from head position, different from craniosynostosis where a closed suture can raise pressure."
+  },
+  {
+    "id": 52,
+    "chapter": 4,
+    "front": "Why does a growth plate mimic a fracture?",
+    "back": "It is a lucent cartilaginous line on radiographs; it sits in an expected location and matches the opposite side."
+  },
+  {
+    "id": 53,
+    "chapter": 4,
+    "front": "What features make a lucent line concerning?",
+    "back": "Crossing the expected growth plate, changing joint alignment, or accompanying soft tissue swelling."
+  },
+  {
+    "id": 54,
+    "chapter": 4,
+    "front": "What is the thymic sail sign?",
+    "back": "A normal triangular thymus projecting to one side in an infant, which can be mistaken for a lung mass."
+  },
+  {
+    "id": 55,
+    "chapter": 4,
+    "front": "What makes a mediastinal mass more than a normal thymus?",
+    "back": "Airway compression, calcification, or a change in the child's clinical state."
+  },
+  {
+    "id": 56,
+    "chapter": 4,
+    "front": "How can crying mimic bowel obstruction?",
+    "back": "Swallowed air creates gas-filled loops; true obstruction shows dilated loops proximal to a transition with a supporting clinical course."
+  },
+  {
+    "id": 57,
+    "chapter": 4,
+    "front": "How do accessory ossification centers differ from avulsion injury?",
+    "back": "They have smooth rounded margins and match known centers; avulsion is sharp, displaced, and at a soft tissue injury site."
+  },
+  {
+    "id": 58,
+    "chapter": 4,
+    "front": "What does motion do to MRI?",
+    "back": "It can create duplicated anatomy and degrade sequences; fix the cause before repeating."
+  },
+  {
+    "id": 59,
+    "chapter": 4,
+    "front": "What is CT streak artifact caused by?",
+    "back": "Metal, arm position, or dense contrast in a small vein."
+  },
+  {
+    "id": 60,
+    "chapter": 4,
+    "front": "What is partial volume averaging?",
+    "back": "One slice averages normal and abnormal tissue; coronal and sagittal reconstructions help separate it from a true lesion."
+  },
+  {
+    "id": 61,
+    "chapter": 4,
+    "front": "What ultrasound artifacts should you know?",
+    "back": "Shadowing behind stone or gas, posterior enhancement behind fluid, and anisotropy making a tendon look dark."
+  },
+  {
+    "id": 62,
+    "chapter": 4,
+    "front": "What are common radiography mimics?",
+    "back": "Radiopaque objects outside the body, skin folds simulating fracture lines, and rotation causing apparent joint widening."
+  },
+  {
+    "id": 63,
+    "chapter": 4,
+    "front": "What are the four variant checklist questions?",
+    "back": "Expected location and shape for age, known variant pattern, technical explanation, and clinical support for a real problem."
+  },
+  {
+    "id": 64,
+    "chapter": 4,
+    "front": "What should you do when uncertain whether a finding is a variant?",
+    "back": "Compare with the other side, review prior imaging, and discuss with the referring clinician."
+  },
+  {
+    "id": 65,
+    "chapter": 5,
+    "front": "Why does the newborn brain look different on MRI?",
+    "back": "It has more water and less mature myelin, a less folded cortex in premature infants, and in premature infants a germinal matrix, all changing white matter and gray structure signal."
+  },
+  {
+    "id": 66,
+    "chapter": 5,
+    "front": "What is the germinal matrix?",
+    "back": "A fragile area of developing cells beside the ventricles in premature infants, vulnerable to bleeding and gradually involuting."
+  },
+  {
+    "id": 67,
+    "chapter": 5,
+    "front": "Why can ultrasound be used in infants without sedation?",
+    "back": "The open anterior fontanelle gives an acoustic window, and ultrasound has no radiation and is repeatable at the bedside."
+  },
+  {
+    "id": 68,
+    "chapter": 5,
+    "front": "How does the choroid plexus appear on head ultrasound?",
+    "back": "Echogenic; it should not be mistaken for hemorrhage when it fills the ventricle symmetrically."
+  },
+  {
+    "id": 69,
+    "chapter": 5,
+    "front": "What can head ultrasound not see well?",
+    "back": "The convexity, posterior fossa, and some cortical details."
+  },
+  {
+    "id": 70,
+    "chapter": 5,
+    "front": "When is CT used in neonatal neuroimaging?",
+    "back": "In emergencies such as suspected large hemorrhage or skull injury, accepting radiation and lower soft tissue contrast."
+  },
+  {
+    "id": 71,
+    "chapter": 5,
+    "front": "Why is MRI often better in a stable newborn?",
+    "back": "It gives higher soft tissue contrast for subtle malformations, white-matter injury, and posterior fossa disease."
+  },
+  {
+    "id": 72,
+    "chapter": 5,
+    "front": "What is diffusion-weighted imaging used for?",
+    "back": "Identifying acute injury, such as ischemia, in the newborn brain."
+  },
+  {
+    "id": 73,
+    "chapter": 5,
+    "front": "What do susceptibility-sensitive sequences show?",
+    "back": "Blood products."
+  },
+  {
+    "id": 74,
+    "chapter": 5,
+    "front": "How does myelination progress?",
+    "back": "From the brainstem and deep structures toward the cortex, in a predictable pattern that depends on age."
+  },
+  {
+    "id": 75,
+    "chapter": 5,
+    "front": "What is benign enlargement of the subarachnoid spaces?",
+    "back": "Prominent extra-axial CSF spaces over a normal brain, with a faster head growth and usually normal development."
+  },
+  {
+    "id": 76,
+    "chapter": 5,
+    "front": "How is benign enlargement distinguished from hydrocephalus and atrophy?",
+    "back": "Hydrocephalus enlarges the ventricles from pressure; atrophy is loss of brain tissue; benign enlargement has normal brain and normal development."
+  },
+  {
+    "id": 77,
+    "chapter": 5,
+    "front": "What is the cavum septum pellucidum?",
+    "back": "A normal fluid space between the frontal horns that usually closes in infancy."
+  },
+  {
+    "id": 78,
+    "chapter": 5,
+    "front": "When does a large midline cyst suggest malformation?",
+    "back": "When it comes with abnormal midline development rather than a small persistent cavum."
+  },
+  {
+    "id": 79,
+    "chapter": 5,
+    "front": "Why is the posterior fossa a source of false alarms?",
+    "back": "The cerebellum and fourth ventricle change shape with age and position, and a small vermis can be normal in a premature infant."
+  },
+  {
+    "id": 80,
+    "chapter": 5,
+    "front": "What suggests a true posterior fossa malformation?",
+    "back": "An abnormal brainstem, a distorted fourth ventricle, or a large cyst compressing the cerebellum."
+  },
+  {
+    "id": 81,
+    "chapter": 6,
+    "front": "How do the brain and spinal cord begin to form?",
+    "back": "As a flat plate of cells that folds into a tube, which then bends, expands, and organizes into specialized regions."
+  },
+  {
+    "id": 82,
+    "chapter": 6,
+    "front": "What failure produces myelomeningocele?",
+    "back": "A failure of neural tube closure."
+  },
+  {
+    "id": 83,
+    "chapter": 6,
+    "front": "How is a meningocele different from a myelomeningocele?",
+    "back": "A meningocele contains meninges and fluid but not the cord; a myelomeningocele is an open defect with exposed neural tissue."
+  },
+  {
+    "id": 84,
+    "chapter": 6,
+    "front": "What is a lipomyelomeningocele?",
+    "back": "A spinal dysraphism containing fat that tethers the cord."
+  },
+  {
+    "id": 85,
+    "chapter": 6,
+    "front": "What is holoprosencephaly?",
+    "back": "Incomplete separation of the forebrain, severe forms having a single ventricle and fused deep structures, often with midline facial involvement."
+  },
+  {
+    "id": 86,
+    "chapter": 6,
+    "front": "What are the imaging findings of callosal agenesis?",
+    "back": "Parallel separated lateral ventricles and radially arranged gyri."
+  },
+  {
+    "id": 87,
+    "chapter": 6,
+    "front": "How do lissencephaly, polymicrogyria, and heterotopia differ?",
+    "back": "Lissencephaly has a thick smooth cortex, polymicrogyria has too many small folds, and heterotopia has gray-matter nodules in an abnormal location."
+  },
+  {
+    "id": 88,
+    "chapter": 6,
+    "front": "What is schizencephaly?",
+    "back": "A gray-matter-lined cleft from the ventricle to the brain surface, open or closed."
+  },
+  {
+    "id": 89,
+    "chapter": 6,
+    "front": "How does a porencephalic cyst differ from schizencephaly?",
+    "back": "A porencephalic cyst usually reflects tissue loss rather than abnormal formation."
+  },
+  {
+    "id": 90,
+    "chapter": 6,
+    "front": "What defines the Dandy-Walker continuum?",
+    "back": "A large posterior fossa fluid collection, an elevated tentorium, and varying vermian hypoplasia, usually altering the fourth ventricle."
+  },
+  {
+    "id": 91,
+    "chapter": 6,
+    "front": "What are the features of Chiari II malformation?",
+    "back": "Tonsil and vermis descent, a low elongated fourth ventricle, and a beak-like tectum, commonly with myelomeningocele."
+  },
+  {
+    "id": 92,
+    "chapter": 6,
+    "front": "How is Chiari I defined?",
+    "back": "Descent of the cerebellar tonsils through the foramen magnum, assessed with CSF crowding, syrinx, and hydrocephalus."
+  },
+  {
+    "id": 93,
+    "chapter": 6,
+    "front": "What cutaneous markers suggest occult spinal dysraphism?",
+    "back": "A dimple, hair tuft, birthmark, or small mass over the spine."
+  },
+  {
+    "id": 94,
+    "chapter": 6,
+    "front": "What is the best screening and definitive tests for occult dysraphism?",
+    "back": "Ultrasound screens young infants before ossification; MRI defines tethering, syrinx, or complex malformations."
+  },
+  {
+    "id": 95,
+    "chapter": 6,
+    "front": "When does a low conus indicate tethering?",
+    "back": "Only with other findings such as a thickened filum, lipoma, or abnormal cord motion."
+  },
+  {
+    "id": 96,
+    "chapter": 6,
+    "front": "What should a malformation report contain?",
+    "back": "Present and missing structures, fluid collections, brainstem status, hydrocephalus, airway or feeding risk, and follow-up recommendations."
+  },
+  {
+    "id": 97,
+    "chapter": 7,
+    "front": "Which neonatal brain regions does a prolonged partial insult in a term infant usually injure?",
+    "back": "The watershed regions between the major cerebral arterial territories, producing parasagittal injury."
+  },
+  {
+    "id": 98,
+    "chapter": 7,
+    "front": "Which structures does a sudden severe insult in a term infant usually injure?",
+    "back": "The deep gray nuclei, meaning the basal ganglia and thalami, often with cortical involvement."
+  },
+  {
+    "id": 99,
+    "chapter": 7,
+    "front": "Which structures are harmed first in a premature infant?",
+    "back": "The germinal matrix and periventricular white matter, because of fragile capillaries and vulnerable vascular zones."
+  },
+  {
+    "id": 100,
+    "chapter": 7,
+    "front": "How does a typical IVH grading system work?",
+    "back": "It separates blood confined to the matrix, blood in the ventricle without or with enlargement, and bleeding into the surrounding white matter."
+  },
+  {
+    "id": 101,
+    "chapter": 7,
+    "front": "Why is the exact IVH grade less important than the full picture?",
+    "back": "Management depends on ventricular enlargement, hydrocephalus, cerebellar or deep gray bleeds, and white matter injury, not the label alone."
+  },
+  {
+    "id": 102,
+    "chapter": 7,
+    "front": "What should follow-up cranial ultrasound measure after IVH?",
+    "back": "Ventricular size and any increasing fluid, because ventricles can enlarge while the clot looks unchanged."
+  },
+  {
+    "id": 103,
+    "chapter": 7,
+    "front": "Why can early neonatal ultrasound miss hypoxic-ischemic injury?",
+    "back": "It may be normal early, while MRI diffusion imaging detects acute cellular swelling sooner."
+  },
+  {
+    "id": 104,
+    "chapter": 7,
+    "front": "Which MRI sequence shows acute injury earliest?",
+    "back": "Diffusion-weighted imaging, which detects restricted diffusion before conventional sequences show clear change."
+  },
+  {
+    "id": 105,
+    "chapter": 7,
+    "front": "What does CT show later in hypoxic-ischemic injury?",
+    "back": "Loss of gray-white distinction, with established tissue loss visible on later studies."
+  },
+  {
+    "id": 106,
+    "chapter": 7,
+    "front": "Why is the term perinatal injury useful?",
+    "back": "It is broader than hypoxic-ischemic encephalopathy and does not assume a mechanism the images cannot prove."
+  },
+  {
+    "id": 107,
+    "chapter": 7,
+    "front": "What mimics hypoxic-ischemic patterns on MRI?",
+    "back": "Infection, metabolic disease, and stroke, so clinical story, cord gases, seizures, and perinatal timeline must be considered."
+  },
+  {
+    "id": 108,
+    "chapter": 7,
+    "front": "How does a perinatal arterial infarct typically appear?",
+    "back": "As a territory-limited lesion, often in one middle cerebral artery distribution, with early diffusion restriction and later tissue loss."
+  },
+  {
+    "id": 109,
+    "chapter": 7,
+    "front": "How is sinovenous thrombosis confirmed in a neonate?",
+    "back": "Venography shows a filling defect in a vein or sinus, and susceptibility imaging may show blood products."
+  },
+  {
+    "id": 110,
+    "chapter": 7,
+    "front": "Why is cerebellar hemorrhage important in premature infants?",
+    "back": "It can compress the fourth ventricle and cause hydrocephalus, and it is easily missed on routine head ultrasound."
+  },
+  {
+    "id": 111,
+    "chapter": 7,
+    "front": "How can cerebellar hemorrhage be better seen?",
+    "back": "With MRI or dedicated posterior fossa sonographic views, since the posterior fossa is poorly seen through the anterior fontanelle."
+  },
+  {
+    "id": 112,
+    "chapter": 8,
+    "front": "What distinguishes meningitis, encephalitis, abscess, and ventriculitis?",
+    "back": "Meningitis inflames the meninges, encephalitis the brain tissue, an abscess is a walled pus collection, and ventriculitis inflames the ventricles."
+  },
+  {
+    "id": 113,
+    "chapter": 8,
+    "front": "What routes can CNS infection take?",
+    "back": "Blood, cerebrospinal fluid, the meninges, or direct spread from adjacent bone or sinus, which shapes the imaging pattern."
+  },
+  {
+    "id": 114,
+    "chapter": 8,
+    "front": "What does a frontal lobe lesion beside an infected sinus suggest?",
+    "back": "Direct spread from the sinus, such as an abscess or empyema."
+  },
+  {
+    "id": 115,
+    "chapter": 8,
+    "front": "How does early bacterial meningitis appear on imaging?",
+    "back": "With subtle leptomeningeal enhancement, and CT may be normal early."
+  },
+  {
+    "id": 116,
+    "chapter": 8,
+    "front": "Why is CT often done first in suspected meningitis with deficits?",
+    "back": "It is fast and shows hydrocephalus, edema, infarction, or hemorrhage, though a normal CT does not exclude infection."
+  },
+  {
+    "id": 117,
+    "chapter": 8,
+    "front": "What is MRI better at showing in bacterial infection?",
+    "back": "Complications such as empyema, cerebritis, and infarction."
+  },
+  {
+    "id": 118,
+    "chapter": 8,
+    "front": "What is empyema and how does it look?",
+    "back": "A subdural or epidural pus collection with thick marginal enhancement and restricted diffusion within it."
+  },
+  {
+    "id": 119,
+    "chapter": 8,
+    "front": "How does a cerebral abscess usually appear?",
+    "back": "A ring-enhancing collection with surrounding edema and restricted diffusion in the cavity."
+  },
+  {
+    "id": 120,
+    "chapter": 8,
+    "front": "Which hardware setting makes ventriculitis common?",
+    "back": "A ventricular drain or shunt, so review the catheter tract and look for a trapped ventricle."
+  },
+  {
+    "id": 121,
+    "chapter": 8,
+    "front": "What is the typical pattern of herpes encephalitis?",
+    "back": "Temporal and inferior frontal lobe swelling with restricted diffusion, sometimes asymmetric or evolving, and treatment should not wait for imaging."
+  },
+  {
+    "id": 122,
+    "chapter": 8,
+    "front": "What imaging does cytomegalovirus congenital infection show?",
+    "back": "Periventricular injury, calcification, white matter change, and sometimes malformation."
+  },
+  {
+    "id": 123,
+    "chapter": 8,
+    "front": "What pattern does congenital toxoplasmosis show?",
+    "back": "Scattered calcifications, with distribution and timing depending on the organism."
+  },
+  {
+    "id": 124,
+    "chapter": 8,
+    "front": "What is ADEM?",
+    "back": "Acute disseminated encephalomyelitis, with multiple large poorly defined brain and spinal cord lesions, often after viral illness or vaccination."
+  },
+  {
+    "id": 125,
+    "chapter": 8,
+    "front": "Which antibody-mediated diseases overlap in imaging?",
+    "back": "MOG antibody-associated disease and NMDAR antibody encephalitis, with variable regions affected."
+  },
+  {
+    "id": 126,
+    "chapter": 8,
+    "front": "Does a normal MRI exclude immune-mediated encephalitis?",
+    "back": "No, early MRI can be normal, so subtle cortical, limbic, or brainstem changes and follow-up matter."
+  },
+  {
+    "id": 127,
+    "chapter": 8,
+    "front": "What should a CNS infection report describe?",
+    "back": "Location, signal, enhancement, fluid, swelling, restricted diffusion, and secondary effects such as hydrocephalus."
+  },
+  {
+    "id": 128,
+    "chapter": 9,
+    "front": "What two features narrow a pediatric brain tumor differential first?",
+    "back": "Location in the brain or spine and the age of the child."
+  },
+  {
+    "id": 129,
+    "chapter": 9,
+    "front": "What compartments should a report describe for a brain tumor?",
+    "back": "Intra-axial versus extra-axial and supratentorial versus infratentorial, then signal, enhancement, calcification, hemorrhage, cysts, and edema."
+  },
+  {
+    "id": 130,
+    "chapter": 9,
+    "front": "What compartments are used for spinal tumors?",
+    "back": "Intramedullary, extramedullary-intradural, or extradural."
+  },
+  {
+    "id": 131,
+    "chapter": 9,
+    "front": "Why is hydrocephalus in a tumor important?",
+    "back": "CSF blockage can cause headache, vomiting, lethargy, or a bulging fontanelle, and acute hydrocephalus is an emergency even with a small tumor."
+  },
+  {
+    "id": 132,
+    "chapter": 9,
+    "front": "What is the typical appearance of medulloblastoma?",
+    "back": "A cerebellar vermian mass that can fill the fourth ventricle, restrict diffusion, and enhance."
+  },
+  {
+    "id": 133,
+    "chapter": 9,
+    "front": "What staging does medulloblastoma require?",
+    "back": "Spinal imaging, because CSF spread is common."
+  },
+  {
+    "id": 134,
+    "chapter": 9,
+    "front": "What is the typical appearance of pilocytic astrocytoma?",
+    "back": "A cystic cerebellar mass with an enhancing mural nodule, with tissue still needed for diagnosis."
+  },
+  {
+    "id": 135,
+    "chapter": 9,
+    "front": "Where does ependymoma arise and how does it grow?",
+    "back": "From the floor of the fourth ventricle, extending through its openings as a plastic irregular mass."
+  },
+  {
+    "id": 136,
+    "chapter": 9,
+    "front": "What is diffuse midline glioma?",
+    "back": "A diffuse infiltrative tumor of the brainstem, thalamus, or spinal cord without a clear border, with molecular subtypes MRI cannot identify."
+  },
+  {
+    "id": 137,
+    "chapter": 9,
+    "front": "Where does craniopharyngioma occur and what does it contain?",
+    "back": "The sellar and suprasellar region, often with cysts, calcification, and solid parts, causing visual or endocrine symptoms."
+  },
+  {
+    "id": 138,
+    "chapter": 9,
+    "front": "Where do germ cell tumors usually occur?",
+    "back": "In the pineal or suprasellar region, and some contain fat, blood, or calcification."
+  },
+  {
+    "id": 139,
+    "chapter": 9,
+    "front": "What staging do germ cell tumors need?",
+    "back": "Imaging of the spine and CSF assessment."
+  },
+  {
+    "id": 140,
+    "chapter": 9,
+    "front": "Where do low-grade gliomas often occur in children?",
+    "back": "In the cerebral hemispheres and optic pathway, appearing cystic, solid, or mixed."
+  },
+  {
+    "id": 141,
+    "chapter": 9,
+    "front": "What does an intramedullary spinal tumor often cause?",
+    "back": "Cord expansion and sometimes a syrinx, with ependymoma and astrocytoma as important possibilities."
+  },
+  {
+    "id": 142,
+    "chapter": 9,
+    "front": "Where do extramedullary spinal tumors arise?",
+    "back": "From nerve roots or meninges."
+  },
+  {
+    "id": 143,
+    "chapter": 9,
+    "front": "Which spinal symptoms need prompt review in a child with a tumor?",
+    "back": "New back pain, bowel or bladder change, or weakness, because tumor or spread can compress the cord."
+  },
+  {
+    "id": 144,
+    "chapter": 10,
+    "front": "Why use a space-based approach in head and neck imaging?",
+    "back": "The involved space narrows the differential and predicts complications."
+  },
+  {
+    "id": 145,
+    "chapter": 10,
+    "front": "What does a midline neck mass in a young child suggest?",
+    "back": "A thyroglossal duct cyst."
+  },
+  {
+    "id": 146,
+    "chapter": 10,
+    "front": "What lateral neck masses are common in children?",
+    "back": "Branchial cleft cyst, enlarged lymph node, or vascular anomaly."
+  },
+  {
+    "id": 147,
+    "chapter": 10,
+    "front": "Which airway symptoms make neck imaging an emergency?",
+    "back": "Stridor, drooling, inability to swallow, muffled voice, or rapidly worsening distress."
+  },
+  {
+    "id": 148,
+    "chapter": 10,
+    "front": "What should a team avoid in a child with possible airway obstruction?",
+    "back": "Forcing the child to lie flat or undergo a prolonged study before the airway is safe."
+  },
+  {
+    "id": 149,
+    "chapter": 10,
+    "front": "Where does a retropharyngeal abscess lie?",
+    "back": "Between the pharynx and the prevertebral fascia."
+  },
+  {
+    "id": 150,
+    "chapter": 10,
+    "front": "How may a child with retropharyngeal abscess present?",
+    "back": "Neck extension, fever, and refusal to swallow."
+  },
+  {
+    "id": 151,
+    "chapter": 10,
+    "front": "What is Ludwig angina?",
+    "back": "Infection of the submandibular and sublingual spaces that can threaten the airway."
+  },
+  {
+    "id": 152,
+    "chapter": 10,
+    "front": "What does the imaging report of deep neck infection describe?",
+    "back": "Spaces involved, gas, thrombophlebitis, and extension toward the chest."
+  },
+  {
+    "id": 153,
+    "chapter": 10,
+    "front": "How does infectious lymphadenitis look on ultrasound?",
+    "back": "An enlarged node with preserved shape, or a fluid collection with surrounding inflammation."
+  },
+  {
+    "id": 154,
+    "chapter": 10,
+    "front": "Why can a normal radiograph not exclude an airway foreign body?",
+    "back": "Many objects are not radiopaque, so look for unilateral hyperinflation or mediastinal shift on inspiratory and expiratory views."
+  },
+  {
+    "id": 155,
+    "chapter": 10,
+    "front": "What is the steeple sign?",
+    "back": "Symmetric subglottic narrowing in croup."
+  },
+  {
+    "id": 156,
+    "chapter": 10,
+    "front": "Why is epiglottitis not diagnosed by imaging?",
+    "back": "The diagnosis is clinical and airway management must not be delayed for imaging."
+  },
+  {
+    "id": 157,
+    "chapter": 10,
+    "front": "Where does orbital infection usually start and spread?",
+    "back": "In the ethmoid sinus, through the thin medial orbital wall."
+  },
+  {
+    "id": 158,
+    "chapter": 10,
+    "front": "Which findings suggest postseptal orbital cellulitis?",
+    "back": "Proptosis, painful eye movement, reduced acuity, or an afferent pupillary defect."
+  },
+  {
+    "id": 159,
+    "chapter": 10,
+    "front": "Which orbital tumor often calcifies in a young child?",
+    "back": "Retinoblastoma."
+  },
+  {
+    "id": 160,
+    "chapter": 11,
+    "front": "In what order should a pediatric chest radiograph be read?",
+    "back": "Confirm patient and projection, assess rotation, inspiration, exposure, and coverage, then airway, lungs, pleura, heart, mediastinum, diaphragm, lower neck, and upper abdomen."
+  },
+  {
+    "id": 161,
+    "chapter": 11,
+    "front": "What does the normal thymus look like?",
+    "back": "A soft anterior mediastinal structure with a sail shape or wavy border that does not narrow the trachea and shrinks with age."
+  },
+  {
+    "id": 162,
+    "chapter": 11,
+    "front": "Why may the heart look large on an infant chest film?",
+    "back": "A supine projection and a high diaphragm enlarge the silhouette, so repeat in the correct position."
+  },
+  {
+    "id": 163,
+    "chapter": 11,
+    "front": "Why does timing of a newborn chest film matter?",
+    "back": "Fetal lung fluid clears with breathing, lymphatic flow, and pulmonary blood flow changes, so early films appear hazy."
+  },
+  {
+    "id": 164,
+    "chapter": 11,
+    "front": "What is congenital pulmonary airway malformation?",
+    "back": "A developmental abnormality of airway and lung tissue appearing as a cystic, solid, or mixed lesion."
+  },
+  {
+    "id": 165,
+    "chapter": 11,
+    "front": "What may CPAM cause after birth?",
+    "back": "Respiratory distress, infection, or pneumothorax, though some lesions shrink or stay asymptomatic."
+  },
+  {
+    "id": 166,
+    "chapter": 11,
+    "front": "What does CT define in CPAM?",
+    "back": "The lobe involved, size, cystic components, and effect on the heart and mediastinum."
+  },
+  {
+    "id": 167,
+    "chapter": 11,
+    "front": "What is bronchopulmonary sequestration?",
+    "back": "Lung tissue not connected normally to the bronchial tree that receives an abnormal systemic arterial supply."
+  },
+  {
+    "id": 168,
+    "chapter": 11,
+    "front": "What is the difference between intralobar and extralobar sequestration?",
+    "back": "Intralobar lies within the normal lobe, and extralobar has its own separate pleural covering."
+  },
+  {
+    "id": 169,
+    "chapter": 11,
+    "front": "What imaging shows the vessels in sequestration?",
+    "back": "Contrast CT or MRI, showing the anomalous artery and venous drainage."
+  },
+  {
+    "id": 170,
+    "chapter": 11,
+    "front": "Which clue suggests an underlying malformation instead of pneumonia?",
+    "back": "A solid or cystic lesion that recurs in the same area."
+  },
+  {
+    "id": 171,
+    "chapter": 11,
+    "front": "What are the radiograph findings in congenital diaphragmatic hernia?",
+    "back": "Bowel gas in the chest, a scaphoid abdomen, and mediastinal shift away from the herniated side."
+  },
+  {
+    "id": 172,
+    "chapter": 11,
+    "front": "Which side is congenital diaphragmatic hernia more common on?",
+    "back": "The left side."
+  },
+  {
+    "id": 173,
+    "chapter": 11,
+    "front": "What is a vascular ring?",
+    "back": "Abnormal vessels surrounding the trachea and esophagus, causing stridor, wheezing, or dysphagia."
+  },
+  {
+    "id": 174,
+    "chapter": 11,
+    "front": "What is scimitar syndrome?",
+    "back": "Partial anomalous pulmonary venous return draining part of the right lung to the inferior vena cava, with a curved vein and small right lung."
+  },
+  {
+    "id": 175,
+    "chapter": 11,
+    "front": "What is a pulmonary arteriovenous malformation?",
+    "back": "A direct pulmonary artery to vein connection without a capillary bed, causing hypoxemia and paradoxical embolism."
+  },
+  {
+    "id": 176,
+    "chapter": 12,
+    "front": "What conditions cause newborn respiratory distress?",
+    "back": "Immature lungs, retained fluid, infection, aspiration, air leak, heart disease, airway obstruction, or abnormal pulmonary vessels."
+  },
+  {
+    "id": 177,
+    "chapter": 12,
+    "front": "Why review lines and tubes on every neonatal film?",
+    "back": "The infant is too small for wrong positions to be obvious on examination."
+  },
+  {
+    "id": 178,
+    "chapter": 12,
+    "front": "What causes respiratory distress syndrome?",
+    "back": "Surfactant deficiency in premature lungs, which normally helps keep small air spaces open."
+  },
+  {
+    "id": 179,
+    "chapter": 12,
+    "front": "What are the radiograph findings of RDS?",
+    "back": "Low volumes, diffuse granular opacity, and air bronchograms, evolving over hours."
+  },
+  {
+    "id": 180,
+    "chapter": 12,
+    "front": "Does radiographic severity always match clinical severity in RDS?",
+    "back": "No, because positive pressure, oxygen, and surfactant change the appearance."
+  },
+  {
+    "id": 181,
+    "chapter": 12,
+    "front": "What suggests a complication in worsening RDS?",
+    "back": "Pneumothorax, interstitial emphysema, infection, or a tube problem."
+  },
+  {
+    "id": 182,
+    "chapter": 12,
+    "front": "What is transient tachypnea of the newborn?",
+    "back": "Early fast breathing from delayed clearance of fetal lung fluid, usually improving over a short period."
+  },
+  {
+    "id": 183,
+    "chapter": 12,
+    "front": "What are the radiograph findings of transient tachypnea?",
+    "back": "Prominent vascular markings, fluid along the fissures, and mild hyperinflation."
+  },
+  {
+    "id": 184,
+    "chapter": 12,
+    "front": "What does meconium aspiration look like?",
+    "back": "Patchy opacities, hyperinflation, and air trapping, with pneumothorax as a complication."
+  },
+  {
+    "id": 185,
+    "chapter": 12,
+    "front": "Why does birth history matter in meconium aspiration?",
+    "back": "The image overlaps with pneumonia and RDS."
+  },
+  {
+    "id": 186,
+    "chapter": 12,
+    "front": "What is a pneumothorax?",
+    "back": "Air outside the lung inside the pleural space, which can compress the lung and shift the mediastinum."
+  },
+  {
+    "id": 187,
+    "chapter": 12,
+    "front": "Why can a supine pneumothorax be subtle?",
+    "back": "Air collects anteriorly, so a lateral edge may not show."
+  },
+  {
+    "id": 188,
+    "chapter": 12,
+    "front": "What does pneumomediastinum look like?",
+    "back": "Air along the mediastinal borders."
+  },
+  {
+    "id": 189,
+    "chapter": 12,
+    "front": "What does pulmonary interstitial emphysema look like?",
+    "back": "Small cystic lucencies within the lung, and it may precede a larger pneumothorax."
+  },
+  {
+    "id": 190,
+    "chapter": 12,
+    "front": "Where should umbilical venous and arterial catheters lie?",
+    "back": "Venous through the liver toward the inferior vena cava, and arterial descending from the umbilical artery without compromising a major vessel."
+  },
+  {
+    "id": 191,
+    "chapter": 12,
+    "front": "What should the report do about neonatal pneumonia?",
+    "back": "Describe pattern, distribution, complications, and line positions, without promising an organism, and communicate urgent findings directly."
+  },
+  {
+    "id": 192,
+    "chapter": 13,
+    "front": "What chest radiograph patterns suggest viral rather than bacterial pneumonia?",
+    "back": "Diffuse or perihilar opacity suggests viral disease, while focal dense consolidation favors bacterial disease. Overlap is common, so the radiograph cannot reliably name the organism."
+  },
+  {
+    "id": 193,
+    "chapter": 13,
+    "front": "What is a parapneumonic effusion?",
+    "back": "Fluid in the pleural space beside an infected lung. A simple effusion often clears with antibiotics."
+  },
+  {
+    "id": 194,
+    "chapter": 13,
+    "front": "How is empyema different from a simple effusion?",
+    "back": "Empyema is infected pleural fluid that may form septations or loculations. It often needs drainage."
+  },
+  {
+    "id": 195,
+    "chapter": 13,
+    "front": "Why is ultrasound the preferred test for pneumonia complications in children?",
+    "back": "It separates fluid from consolidated lung, shows septations, guides drainage, and uses no radiation."
+  },
+  {
+    "id": 196,
+    "chapter": 13,
+    "front": "When is contrast CT reserved in pneumonia?",
+    "back": "For complex cases, suspected lung necrosis, or a procedure plan. Ultrasound usually answers the practical question first."
+  },
+  {
+    "id": 197,
+    "chapter": 13,
+    "front": "How does a lung abscess look on imaging?",
+    "back": "A thick-walled cavity within the lung, often with an air-fluid level. It is a collection of pus in the lung tissue."
+  },
+  {
+    "id": 198,
+    "chapter": 13,
+    "front": "What defines necrotizing pneumonia?",
+    "back": "Lung tissue death producing multiple small cavities. It is a more severe complication than simple consolidation."
+  },
+  {
+    "id": 199,
+    "chapter": 13,
+    "front": "What is a pneumatocele?",
+    "back": "A thin-walled air collection that can form after infection or trauma. It often resolves on its own."
+  },
+  {
+    "id": 200,
+    "chapter": 13,
+    "front": "What should be checked when one hemithorax is less lucent in a child with pneumonia?",
+    "back": "The trachea, heart position, and diaphragm, to look for mass effect from a large effusion."
+  },
+  {
+    "id": 201,
+    "chapter": 13,
+    "front": "How does tuberculosis in children differ from adult disease?",
+    "back": "Children often have hilar or mediastinal lymph node enlargement with less lung cavitation than adults."
+  },
+  {
+    "id": 202,
+    "chapter": 13,
+    "front": "What is a Ghon complex?",
+    "back": "A peripheral lung focus plus enlarged regional lymph nodes, seen in primary tuberculosis."
+  },
+  {
+    "id": 203,
+    "chapter": 13,
+    "front": "What does miliary tuberculosis look like?",
+    "back": "Tiny nodules scattered throughout both lungs, reflecting disseminated disease."
+  },
+  {
+    "id": 204,
+    "chapter": 13,
+    "front": "Can imaging prove tuberculosis in a child?",
+    "back": "No. Exposure history, tuberculin or interferon testing, microbiology, and public health guidance are also needed."
+  },
+  {
+    "id": 205,
+    "chapter": 13,
+    "front": "What imaging findings occur in cystic fibrosis?",
+    "back": "Hyperinflation, bronchial wall thickening, mucus plugging, and bronchiectasis. Early images may be subtle."
+  },
+  {
+    "id": 206,
+    "chapter": 13,
+    "front": "What conditions can cause diffuse opacities or small nodules besides infection?",
+    "back": "Hypersensitivity pneumonitis, aspiration, and immune-mediated lung disease. Distribution and history help separate them."
+  },
+  {
+    "id": 207,
+    "chapter": 13,
+    "front": "Why should recurrent pneumonia prompt more than imaging?",
+    "back": "It may reflect immune deficiency or another systemic problem, so immunologic evaluation may be needed along with the radiograph."
+  },
+  {
+    "id": 208,
+    "chapter": 14,
+    "front": "What are the steps of the segmental approach to congenital heart disease?",
+    "back": "Trace venous return, atria, ventricles, great arteries, and the connections between them, then assess pulmonary flow, systemic flow, and mixing."
+  },
+  {
+    "id": 209,
+    "chapter": 14,
+    "front": "What does the chest radiograph show in congenital heart disease?",
+    "back": "Heart size, pulmonary vascularity, and aortic arch position. It can point to a shunt or obstruction but does not fully assess pressure."
+  },
+  {
+    "id": 210,
+    "chapter": 14,
+    "front": "Why can a supine infant chest film overestimate heart size?",
+    "back": "Position, breathing, and the phase of the cardiac cycle all affect apparent size, and a supine film can make the heart look larger."
+  },
+  {
+    "id": 211,
+    "chapter": 14,
+    "front": "What is a ventricular septal defect?",
+    "back": "A hole between the ventricles. A small defect has little effect, while a large one causes pulmonary overcirculation and heart failure."
+  },
+  {
+    "id": 212,
+    "chapter": 14,
+    "front": "What is the radiographic finding of a large ventricular septal defect?",
+    "back": "An enlarged heart with increased pulmonary vascular markings. Echocardiography defines the defect and pressures."
+  },
+  {
+    "id": 213,
+    "chapter": 14,
+    "front": "What does an atrial septal defect cause?",
+    "back": "A left-to-right shunt that may be asymptomatic in childhood and become apparent later."
+  },
+  {
+    "id": 214,
+    "chapter": 14,
+    "front": "Why does a patent ductus arteriosus matter in premature infants?",
+    "back": "It connects the aorta and pulmonary artery and can cause respiratory difficulty and pulmonary overcirculation."
+  },
+  {
+    "id": 215,
+    "chapter": 14,
+    "front": "What are the clinical features of coarctation of the aorta?",
+    "back": "Upper-extremity hypertension, weak femoral pulses, or newborn heart failure. Rib notching may appear in older children."
+  },
+  {
+    "id": 216,
+    "chapter": 14,
+    "front": "What are the four components of tetralogy of Fallot?",
+    "back": "Ventricular septal defect, pulmonary outflow obstruction, overriding aorta, and right ventricular hypertrophy."
+  },
+  {
+    "id": 217,
+    "chapter": 14,
+    "front": "What does tetralogy of Fallot look like on a chest radiograph?",
+    "back": "A boot-shaped heart with decreased pulmonary vascularity. Severity depends on how much blood reaches the lungs."
+  },
+  {
+    "id": 218,
+    "chapter": 14,
+    "front": "Why is transposition of the great arteries dependent on mixing?",
+    "back": "The aorta arises from the right ventricle and the pulmonary artery from the left, so the circuits run in parallel and survival needs a septal defect or ductus."
+  },
+  {
+    "id": 219,
+    "chapter": 14,
+    "front": "What radiographic pattern suggests transposition?",
+    "back": "A narrow mediastinum with increased or variable pulmonary vascularity. Echocardiography is urgent."
+  },
+  {
+    "id": 220,
+    "chapter": 14,
+    "front": "What is total anomalous pulmonary venous return?",
+    "back": "Pulmonary veins drain to the systemic venous system instead of the left atrium. Obstruction causes pulmonary edema and critical illness."
+  },
+  {
+    "id": 221,
+    "chapter": 14,
+    "front": "Why can obstructed total anomalous venous return be mistaken for lung disease?",
+    "back": "The infant has respiratory distress and pulmonary edema. Severe cyanosis in this setting should prompt cardiac evaluation."
+  },
+  {
+    "id": 222,
+    "chapter": 14,
+    "front": "What are the advantages of MRI versus CT in congenital heart disease?",
+    "back": "MRI avoids radiation and measures flow and ventricular function. CT is faster and gives high-resolution vascular anatomy."
+  },
+  {
+    "id": 223,
+    "chapter": 14,
+    "front": "What is the purpose of the Did You Know point about the ductus arteriosus?",
+    "back": "In some ductal-dependent lesions, keeping the ductus open is necessary for survival, and a medication can preserve it during transfer for surgery."
+  },
+  {
+    "id": 224,
+    "chapter": 15,
+    "front": "What are the three mediastinal compartments?",
+    "back": "Anterior, middle, and posterior. The compartment narrows the differential and predicts behavior."
+  },
+  {
+    "id": 225,
+    "chapter": 15,
+    "front": "What typically arises in the anterior mediastinum?",
+    "back": "Lymphoma, teratoma and other germ cell tumors, and thymic lesions."
+  },
+  {
+    "id": 226,
+    "chapter": 15,
+    "front": "What typically arises in the middle mediastinum?",
+    "back": "Enlarged lymph nodes, bronchogenic cysts, and some vascular lesions."
+  },
+  {
+    "id": 227,
+    "chapter": 15,
+    "front": "What typically arises in the posterior mediastinum?",
+    "back": "Neural tumors such as neuroblastoma and ganglioneuroma, near the spine."
+  },
+  {
+    "id": 228,
+    "chapter": 15,
+    "front": "What are signs of airway or venous compromise from a mediastinal mass?",
+    "back": "Breathlessness when lying down, distended neck veins, facial swelling, or a changing voice. These need urgent specialist review."
+  },
+  {
+    "id": 229,
+    "chapter": 15,
+    "front": "Why can a well-appearing child with a mediastinal mass be at risk?",
+    "back": "A child who lies flat without symptoms may still have a dangerous mass, and the airway can collapse during sedation."
+  },
+  {
+    "id": 230,
+    "chapter": 15,
+    "front": "How does lymphoma behave in the mediastinum?",
+    "back": "It can enlarge quickly and compress the trachea or superior vena cava. The report should note airway, vessel, pleural, and pericardial findings."
+  },
+  {
+    "id": 231,
+    "chapter": 15,
+    "front": "What does a teratoma look like on imaging?",
+    "back": "A mixed mass with fat, fluid, calcification, and solid tissue. Imaging cannot replace pathology."
+  },
+  {
+    "id": 232,
+    "chapter": 15,
+    "front": "Why does a large thymus matter in infants?",
+    "back": "It is the more likely explanation for a smooth anterior opacity than a tumor."
+  },
+  {
+    "id": 233,
+    "chapter": 15,
+    "front": "What features of neuroblastoma should the report describe?",
+    "back": "Calcification, extension into the spinal canal, effect on the airway, and relationship to vessels."
+  },
+  {
+    "id": 234,
+    "chapter": 15,
+    "front": "What is a bronchogenic cyst?",
+    "back": "A fluid-filled middle mediastinal lesion closely related to the airway. Infection or rupture changes its appearance."
+  },
+  {
+    "id": 235,
+    "chapter": 15,
+    "front": "What is a foregut duplication cyst?",
+    "back": "A congenital fluid-filled structure that can become infected or compress nearby tissue. Final diagnosis often needs pathology."
+  },
+  {
+    "id": 236,
+    "chapter": 15,
+    "front": "Why is chest trauma dangerous in children?",
+    "back": "The chest wall is flexible, so severe internal injury can occur without an obvious rib fracture."
+  },
+  {
+    "id": 237,
+    "chapter": 15,
+    "front": "What are the key immediate concerns after chest trauma?",
+    "back": "Airway, breathing, circulation, pneumothorax, hemothorax, pulmonary contusion, and great-vessel injury."
+  },
+  {
+    "id": 238,
+    "chapter": 15,
+    "front": "What structures should be reviewed beyond the lungs after chest trauma?",
+    "back": "The airway, heart, aorta, diaphragm, spine, and upper abdomen."
+  },
+  {
+    "id": 239,
+    "chapter": 15,
+    "front": "What does a rib fracture in a young child suggest?",
+    "back": "Significant force, even if the fracture is not displaced."
+  },
+  {
+    "id": 240,
+    "chapter": 16,
+    "front": "What is the first concern in a newborn with bilious vomiting?",
+    "back": "Malrotation with volvulus, which is a surgical emergency until proven otherwise."
+  },
+  {
+    "id": 241,
+    "chapter": 16,
+    "front": "What are the first steps in assessing a newborn with vomiting or distention?",
+    "back": "Clinical stabilization, checking glucose and electrolytes, and deciding whether the vomiting is bilious."
+  },
+  {
+    "id": 242,
+    "chapter": 16,
+    "front": "Does a normal plain radiograph exclude malrotation?",
+    "back": "No. An upper gastrointestinal contrast study or ultrasound may be needed."
+  },
+  {
+    "id": 243,
+    "chapter": 16,
+    "front": "What does the upper GI study show in malrotation?",
+    "back": "An abnormal position of the duodenojejunal junction."
+  },
+  {
+    "id": 244,
+    "chapter": 16,
+    "front": "What is the whirlpool sign?",
+    "back": "Twisted mesenteric vessels around the superior mesenteric artery on ultrasound, suggesting volvulus. It is operator dependent."
+  },
+  {
+    "id": 245,
+    "chapter": 16,
+    "front": "Why must a negative ultrasound not delay surgery in suspected volvulus?",
+    "back": "Ultrasound is operator dependent, so convincing clinical findings need urgent surgical review regardless."
+  },
+  {
+    "id": 246,
+    "chapter": 16,
+    "front": "What does esophageal atresia look like?",
+    "back": "A coiled tube in the upper pouch. Gastric air suggests a distal fistula, while a gasless abdomen suggests no fistula."
+  },
+  {
+    "id": 247,
+    "chapter": 16,
+    "front": "What is the double bubble sign?",
+    "back": "Gas in the stomach and proximal duodenum with little distal gas, classic for duodenal atresia."
+  },
+  {
+    "id": 248,
+    "chapter": 16,
+    "front": "What is duodenal atresia associated with?",
+    "back": "Down syndrome and other anomalies. A web or annular pancreas can give a similar pattern."
+  },
+  {
+    "id": 249,
+    "chapter": 16,
+    "front": "What is meconium ileus?",
+    "back": "Thick meconium in the distal ileum, often related to cystic fibrosis."
+  },
+  {
+    "id": 250,
+    "chapter": 16,
+    "front": "What is Hirschsprung disease?",
+    "back": "Absent ganglion cells in a bowel segment causing functional obstruction, often with a transition zone on enema."
+  },
+  {
+    "id": 251,
+    "chapter": 16,
+    "front": "What is ileal atresia?",
+    "back": "A structural discontinuity of the bowel causing distal obstruction with multiple dilated loops."
+  },
+  {
+    "id": 252,
+    "chapter": 16,
+    "front": "What does a contrast enema help show in distal obstruction?",
+    "back": "Colon caliber, a transition zone, or meconium pellets, helping separate the causes."
+  },
+  {
+    "id": 253,
+    "chapter": 16,
+    "front": "What are the radiographic signs of necrotizing enterocolitis?",
+    "back": "Dilated loops, pneumatosis intestinalis, portal venous gas, a fixed loop, or pneumoperitoneum."
+  },
+  {
+    "id": 254,
+    "chapter": 16,
+    "front": "What does pneumoperitoneum mean in a newborn?",
+    "back": "Free air outside the bowel, usually from perforation, needing urgent surgical evaluation."
+  },
+  {
+    "id": 255,
+    "chapter": 16,
+    "front": "Why is a gasless abdomen concerning in necrotizing enterocolitis?",
+    "back": "It can reflect widespread bowel injury or fluid, so serial images should be compared and changes communicated."
+  },
+  {
+    "id": 256,
+    "chapter": 17,
+    "front": "How is acute abdominal pain organized in older children?",
+    "back": "By age, location, sex, fever, vomiting, bowel pattern, and pregnancy status, to decide which emergencies to exclude."
+  },
+  {
+    "id": 257,
+    "chapter": 17,
+    "front": "What conditions mimic appendicitis?",
+    "back": "Ovarian pathology, mesenteric lymphadenitis, inflammatory bowel disease, and urinary disease."
+  },
+  {
+    "id": 258,
+    "chapter": 17,
+    "front": "What causes right upper quadrant pain?",
+    "back": "Gallbladder or liver disease."
+  },
+  {
+    "id": 259,
+    "chapter": 17,
+    "front": "How does appendicitis look on ultrasound?",
+    "back": "An enlarged, noncompressible appendix with surrounding fat inflammation."
+  },
+  {
+    "id": 260,
+    "chapter": 17,
+    "front": "Why must the appendix be fully visualized?",
+    "back": "A retrocecal appendix or large habitus can hide it, so a negative study needs complete visualization."
+  },
+  {
+    "id": 261,
+    "chapter": 17,
+    "front": "When is CT used for appendicitis?",
+    "back": "When ultrasound is inconclusive and risk remains high. It can show abscess, free air, or an alternative diagnosis."
+  },
+  {
+    "id": 262,
+    "chapter": 17,
+    "front": "When is MRI useful for appendicitis?",
+    "back": "In selected centers, especially in pregnancy or when radiation must be avoided."
+  },
+  {
+    "id": 263,
+    "chapter": 17,
+    "front": "What is intussusception?",
+    "back": "One bowel segment telescoping into another, pulling the mesentery along."
+  },
+  {
+    "id": 264,
+    "chapter": 17,
+    "front": "What is the ultrasound sign of intussusception?",
+    "back": "A target-like mass, sometimes with a lymph node or other lead point."
+  },
+  {
+    "id": 265,
+    "chapter": 17,
+    "front": "What is the classic symptom pattern of intussusception?",
+    "back": "Episodic pain, vomiting, and currant jelly stool, but the triad is not always present."
+  },
+  {
+    "id": 266,
+    "chapter": 17,
+    "front": "What treats many cases of intussusception?",
+    "back": "Air or contrast enema, after checking for perforation, peritonitis, or instability."
+  },
+  {
+    "id": 267,
+    "chapter": 17,
+    "front": "When is a pathological lead point more likely?",
+    "back": "In an older child or a child with recurrent intussusception."
+  },
+  {
+    "id": 268,
+    "chapter": 17,
+    "front": "What imaging findings occur in inflammatory bowel disease?",
+    "back": "Bowel wall thickening, fat inflammation, strictures, or fistulas."
+  },
+  {
+    "id": 269,
+    "chapter": 17,
+    "front": "What are the ultrasound features of ovarian torsion?",
+    "back": "An enlarged ovary, peripheral follicles, decreased flow, or a twisted pedicle."
+  },
+  {
+    "id": 270,
+    "chapter": 17,
+    "front": "Does normal Doppler flow exclude ovarian torsion?",
+    "back": "No. Intermittent torsion can preserve flow."
+  },
+  {
+    "id": 271,
+    "chapter": 17,
+    "front": "How is testicular torsion managed?",
+    "back": "It is a scrotal emergency. Doppler may show reduced flow, but surgical exploration should not wait for a perfect image."
+  },
+  {
+    "id": 272,
+    "chapter": 18,
+    "front": "Why is persistent jaundice in an infant concerning?",
+    "back": "Persistent or direct hyperbilirubinemia raises concern for biliary atresia, where early surgery improves outcomes."
+  },
+  {
+    "id": 273,
+    "chapter": 18,
+    "front": "What is biliary atresia?",
+    "back": "Obstructed or absent bile ducts. Time matters because early surgery improves outcomes."
+  },
+  {
+    "id": 274,
+    "chapter": 18,
+    "front": "What ultrasound findings suggest biliary atresia?",
+    "back": "A small gallbladder, a triangular cord sign at the porta hepatis, or a cystic structure at the porta. A normal ultrasound does not exclude it."
+  },
+  {
+    "id": 275,
+    "chapter": 18,
+    "front": "What does a hepatobiliary scan show?",
+    "back": "Whether bile reaches the bowel."
+  },
+  {
+    "id": 276,
+    "chapter": 18,
+    "front": "What is a choledochal cyst?",
+    "back": "A dilation of the bile ducts that may cause jaundice, pain, a mass, or pancreatitis."
+  },
+  {
+    "id": 277,
+    "chapter": 18,
+    "front": "Which test defines choledochal cyst anatomy?",
+    "back": "MR cholangiopancreatography or operative cholangiography, describing intrahepatic and extrahepatic components."
+  },
+  {
+    "id": 278,
+    "chapter": 18,
+    "front": "What causes gallstones in children?",
+    "back": "Hemolytic disease, obesity, rapid weight loss, or certain medications. Stones are uncommon in young children."
+  },
+  {
+    "id": 279,
+    "chapter": 18,
+    "front": "What can a common bile duct stone cause?",
+    "back": "Biliary obstruction or pancreatitis."
+  },
+  {
+    "id": 280,
+    "chapter": 18,
+    "front": "What is a hepatic hemangioma?",
+    "back": "A vascular liver lesion that can be large in infancy and cause heart failure or bleeding."
+  },
+  {
+    "id": 281,
+    "chapter": 18,
+    "front": "How are hepatoblastoma and other liver tumors assessed?",
+    "back": "With imaging pattern, age, and alpha-fetoprotein level, but tissue is often needed."
+  },
+  {
+    "id": 282,
+    "chapter": 18,
+    "front": "What is focal nodular hyperplasia?",
+    "back": "A benign liver lesion often found incidentally, with a central scar and characteristic enhancement."
+  },
+  {
+    "id": 283,
+    "chapter": 18,
+    "front": "What can cause splenic enlargement?",
+    "back": "Infection, blood disease, portal hypertension, or infiltration."
+  },
+  {
+    "id": 284,
+    "chapter": 18,
+    "front": "What should be reported in splenic trauma?",
+    "back": "The injury grade, hematoma, and whether active contrast extravasation is present."
+  },
+  {
+    "id": 285,
+    "chapter": 18,
+    "front": "What are the causes of pediatric pancreatitis?",
+    "back": "Gallstones, trauma, infection, medication, metabolic disease, or genetic causes."
+  },
+  {
+    "id": 286,
+    "chapter": 18,
+    "front": "What complications of pancreatitis need CT or MRI?",
+    "back": "Necrosis or pseudocyst."
+  },
+  {
+    "id": 287,
+    "chapter": 18,
+    "front": "What does Doppler assess in portal hypertension?",
+    "back": "The portal vein, flow direction, collaterals, thrombosis, and cavernous transformation."
+  },
+  {
+    "id": 288,
+    "chapter": 19,
+    "front": "What does CAKUT stand for and what does it include?",
+    "back": "Congenital anomalies of the kidney and urinary tract. It covers abnormalities of the kidney, ureter, bladder, and urethra."
+  },
+  {
+    "id": 289,
+    "chapter": 19,
+    "front": "Why does hydronephrosis not equal obstruction?",
+    "back": "It only describes dilation of the collecting system. It can be transient, physiologic, or due to reflux, so context and follow-up decide."
+  },
+  {
+    "id": 290,
+    "chapter": 19,
+    "front": "What is the Weigert-Meyer rule?",
+    "back": "In complete duplication the upper-pole ureter inserts lower and medially and tends to obstruct, while the lower-pole ureter inserts higher and laterally and tends to reflux."
+  },
+  {
+    "id": 291,
+    "chapter": 19,
+    "front": "What is a ureterocele?",
+    "back": "A cystic dilation of the distal ureter within the bladder, usually draining an upper-pole moiety, seen as a thin-walled cyst at the bladder base."
+  },
+  {
+    "id": 292,
+    "chapter": 19,
+    "front": "Which findings suggest posterior urethral valves in a newborn boy?",
+    "back": "Bilateral hydronephrosis, a thick-walled distended bladder, and a dilated posterior urethra on voiding study. It is a urologic emergency."
+  },
+  {
+    "id": 293,
+    "chapter": 19,
+    "front": "Why is a postnatal ultrasound delayed by a few days after birth?",
+    "back": "Neonatal urine output is low early on, which can underestimate dilation and falsely reassure."
+  },
+  {
+    "id": 294,
+    "chapter": 19,
+    "front": "What is renal agenesis and what happens to the other kidney?",
+    "back": "One or both kidneys are absent. A solitary kidney typically enlarges through compensatory hypertrophy."
+  },
+  {
+    "id": 295,
+    "chapter": 19,
+    "front": "Describe the ultrasound appearance of a multicystic dysplastic kidney.",
+    "back": "Multiple non-communicating cysts of varying size with no normal parenchyma and no central pelvis. It often involutes over time."
+  },
+  {
+    "id": 296,
+    "chapter": 19,
+    "front": "What is pelviureteric junction obstruction?",
+    "back": "A blockage at the junction of the renal pelvis and ureter, giving hydronephrosis with a normal ureter and bladder."
+  },
+  {
+    "id": 297,
+    "chapter": 19,
+    "front": "What factors affect the reliability of diuretic renography?",
+    "back": "Hydration, bladder fullness, patient position, and renal maturity can all change the drainage curve."
+  },
+  {
+    "id": 298,
+    "chapter": 19,
+    "front": "What defines a horseshoe kidney?",
+    "back": "Fusion of the lower poles by an isthmus crossing the midline anterior to the aorta, with ascent halted by the inferior mesenteric artery."
+  },
+  {
+    "id": 299,
+    "chapter": 19,
+    "front": "What is crossed fused renal ectopia?",
+    "back": "Both kidneys lie on the same side with fusion of the two, and the ureter of the ectopic kidney still enters the bladder on its own side."
+  },
+  {
+    "id": 300,
+    "chapter": 19,
+    "front": "What is a pelvic kidney?",
+    "back": "A kidney that fails to ascend and remains low in the pelvis, with a short ureter and often an abnormal rotation."
+  },
+  {
+    "id": 301,
+    "chapter": 19,
+    "front": "What does a urachal remnant look like?",
+    "back": "A midline cyst, sinus, or patent channel between the bladder dome and umbilicus, from incomplete regression of the urachus."
+  },
+  {
+    "id": 302,
+    "chapter": 19,
+    "front": "What is vesicoureteral reflux?",
+    "back": "Backward flow of urine from the bladder toward the kidney. It may be primary or secondary to obstruction or bladder dysfunction."
+  },
+  {
+    "id": 303,
+    "chapter": 19,
+    "front": "Why is pitfall awareness important when scanning the neonatal urinary tract?",
+    "back": "Bladder fullness, dehydration, and technique can change the degree of dilation, so measurements must be repeated under comparable conditions."
+  },
+  {
+    "id": 304,
+    "chapter": 20,
+    "front": "Which test is usually first after a child's first febrile urinary tract infection?",
+    "back": "Renal and bladder ultrasound, to find hydronephrosis, anomalies, and complications."
+  },
+  {
+    "id": 305,
+    "chapter": 20,
+    "front": "Why is DMSA scintigraphy delayed for several months after pyelonephritis?",
+    "back": "Acute inflammation causes reversible defects. Waiting separates reversible change from permanent scar."
+  },
+  {
+    "id": 306,
+    "chapter": 20,
+    "front": "What does a DMSA scan measure?",
+    "back": "Uptake in functioning proximal tubular cells, so scars appear as photopenic cortical defects and it also gives split renal function."
+  },
+  {
+    "id": 307,
+    "chapter": 20,
+    "front": "What is focal bacterial nephritis?",
+    "back": "A localized area of infected, swollen kidney, seen as a wedge-shaped region that may progress to an abscess if untreated."
+  },
+  {
+    "id": 308,
+    "chapter": 20,
+    "front": "What suggests a renal abscess on imaging?",
+    "back": "A focal fluid collection with a rim of enhancement that does not respond to antibiotics, best defined with contrast-enhanced imaging."
+  },
+  {
+    "id": 309,
+    "chapter": 20,
+    "front": "How is vesicoureteral reflux shown on a voiding cystourethrogram?",
+    "back": "Contrast flows from the bladder into the ureter and kidney during filling or voiding, and the extent defines the grade."
+  },
+  {
+    "id": 310,
+    "chapter": 20,
+    "front": "What does a high reflux grade look like?",
+    "back": "A dilated, tortuous ureter and renal pelvis with blunted calyces."
+  },
+  {
+    "id": 311,
+    "chapter": 20,
+    "front": "What does MAG3 diuretic renography show?",
+    "back": "Split function and the washout curve after furosemide, which separates true obstruction from a dilated draining system."
+  },
+  {
+    "id": 312,
+    "chapter": 20,
+    "front": "What conditions affect a diuretic renogram?",
+    "back": "Hydration, bladder fullness, patient position, and the timing of the diuretic can all alter drainage."
+  },
+  {
+    "id": 313,
+    "chapter": 20,
+    "front": "What is the classic ultrasound sign of a renal stone?",
+    "back": "An echogenic focus with posterior acoustic shadowing, possibly with hydronephrosis if it obstructs."
+  },
+  {
+    "id": 314,
+    "chapter": 20,
+    "front": "Why is routine voiding cystography no longer used after every first infection?",
+    "back": "Most reflux is low grade and resolves, so the radiation and discomfort are reserved for atypical or recurrent infection."
+  },
+  {
+    "id": 315,
+    "chapter": 20,
+    "front": "What is the usual cause of an infant's cystitis wall thickening?",
+    "back": "Inflammation. The finding is nonspecific and must be read with the urine culture and bladder fullness."
+  },
+  {
+    "id": 316,
+    "chapter": 20,
+    "front": "What does an obstructed system look like on a voiding study when valves are present?",
+    "back": "A dilated posterior urethra above the valve with a change in caliber at its level."
+  },
+  {
+    "id": 317,
+    "chapter": 20,
+    "front": "What are signs of acute pyelonephritis on ultrasound?",
+    "back": "Renal enlargement, altered echogenicity, lost corticomedullary distinction, and sometimes urothelial thickening. The scan can also be normal."
+  },
+  {
+    "id": 318,
+    "chapter": 20,
+    "front": "What is renal scarring on ultrasound?",
+    "back": "A small kidney with cortical thinning and an irregular outline, usually after repeated infection with reflux."
+  },
+  {
+    "id": 319,
+    "chapter": 20,
+    "front": "When is computed tomography used in pediatric urinary infection?",
+    "back": "Only for complicated cases such as a suspected abscess or stone, because it adds radiation."
+  },
+  {
+    "id": 320,
+    "chapter": 21,
+    "front": "What is the first question when evaluating a pediatric abdominal mass?",
+    "back": "Identify the organ of origin, because the organ points to the most likely tumor."
+  },
+  {
+    "id": 321,
+    "chapter": 21,
+    "front": "What are the imaging features of Wilms tumor?",
+    "back": "A large intrarenal solid mass with a claw of normal kidney, vessel displacement, and possible tumor thrombus in the renal vein or inferior vena cava."
+  },
+  {
+    "id": 322,
+    "chapter": 21,
+    "front": "What does neuroblastoma look like on imaging?",
+    "back": "A suprarenal or paraspinal mass that often calcifies, encases vessels, and may cross the midline."
+  },
+  {
+    "id": 323,
+    "chapter": 21,
+    "front": "Which age is typical for Wilms tumor?",
+    "back": "Early childhood, with a peak around ages three to four, in an otherwise healthy child."
+  },
+  {
+    "id": 324,
+    "chapter": 21,
+    "front": "Why does the opposite kidney need to be examined in Wilms tumor?",
+    "back": "Bilateral or synchronous tumors occur in a minority of children and change management."
+  },
+  {
+    "id": 325,
+    "chapter": 21,
+    "front": "What is MIBG scintigraphy used for?",
+    "back": "Staging neuroblastoma, because the tumor cells take up the tracer and show primary and metastatic disease."
+  },
+  {
+    "id": 326,
+    "chapter": 21,
+    "front": "What is mesoblastic nephroma?",
+    "back": "A benign renal tumor of newborns and young infants that usually cures with surgery."
+  },
+  {
+    "id": 327,
+    "chapter": 21,
+    "front": "What is the typical age for renal cell carcinoma in children?",
+    "back": "Older children and adolescents. It is rare compared with Wilms tumor and can be linked to genetic syndromes."
+  },
+  {
+    "id": 328,
+    "chapter": 21,
+    "front": "What are the features of a mature cystic teratoma?",
+    "back": "A cystic ovarian mass with fat, calcification, and a Rokitansky nodule, usually benign."
+  },
+  {
+    "id": 329,
+    "chapter": 21,
+    "front": "What is a sacrococcygeal teratoma?",
+    "back": "A germ cell tumor of the presacral region with fat, calcification, and cysts, mostly diagnosed in newborns."
+  },
+  {
+    "id": 330,
+    "chapter": 21,
+    "front": "What is the most common pelvic soft tissue sarcoma in children?",
+    "back": "Rhabdomyosarcoma, often arising from the bladder, vagina, or prostate."
+  },
+  {
+    "id": 331,
+    "chapter": 21,
+    "front": "What is a botryoid tumor?",
+    "back": "A grape-like variant of rhabdomyosarcoma that projects into the bladder or vagina."
+  },
+  {
+    "id": 332,
+    "chapter": 21,
+    "front": "How is adrenal hemorrhage in a newborn distinguished from neuroblastoma?",
+    "back": "Hemorrhage is avascular and shrinks and becomes cystic over weeks, while a tumor persists or grows with vascularity."
+  },
+  {
+    "id": 333,
+    "chapter": 21,
+    "front": "What is the difference between displacement and encasement of vessels?",
+    "back": "Wilms tumor tends to push vessels aside, while neuroblastoma tends to wrap around them without narrowing them early."
+  },
+  {
+    "id": 334,
+    "chapter": 21,
+    "front": "Which tumors can show renal vein extension?",
+    "back": "Wilms tumor and renal cell carcinoma can grow into the renal vein and inferior vena cava as a tumor thrombus."
+  },
+  {
+    "id": 335,
+    "chapter": 21,
+    "front": "Why is the claw sign useful?",
+    "back": "A rim of normal kidney wrapping the mass shows that the tumor arises from within the kidney, favoring Wilms tumor."
+  },
+  {
+    "id": 336,
+    "chapter": 22,
+    "front": "What is the sonographic hallmark of ovarian torsion?",
+    "back": "An enlarged, edematous ovary, often with peripheral follicles. Doppler flow may still be seen."
+  },
+  {
+    "id": 337,
+    "chapter": 22,
+    "front": "Why does normal Doppler not exclude torsion?",
+    "back": "Intermittent or partial torsion and the ovary's dual blood supply can preserve flow."
+  },
+  {
+    "id": 338,
+    "chapter": 22,
+    "front": "What is the normal prepubertal uterus?",
+    "back": "Small and tubular, with a cervix equal to or larger than the fundus."
+  },
+  {
+    "id": 339,
+    "chapter": 22,
+    "front": "What does a pubertal uterus look like?",
+    "back": "Pear-shaped, with a fundus larger than the cervix and a visible endometrial stripe."
+  },
+  {
+    "id": 340,
+    "chapter": 22,
+    "front": "What is a tubo-ovarian abscess?",
+    "back": "A complex thick-walled adnexal collection from pelvic inflammatory disease, usually with fever."
+  },
+  {
+    "id": 341,
+    "chapter": 22,
+    "front": "What is hydrometrocolpos?",
+    "back": "A fluid-filled distended vagina and uterus caused by an obstruction such as an imperforate hymen or vaginal septum."
+  },
+  {
+    "id": 342,
+    "chapter": 22,
+    "front": "What is the Herlyn-Werner-Wunderlich pattern?",
+    "back": "Uterus didelphys with an obstructed hemivagina and ipsilateral renal agenesis, causing cyclic pain after menarche."
+  },
+  {
+    "id": 343,
+    "chapter": 22,
+    "front": "What is Mayer-Rokitansky-Kuster-Hauser syndrome?",
+    "back": "Congenital absence or hypoplasia of the uterus and upper vagina with normal ovaries and a normal karyotype."
+  },
+  {
+    "id": 344,
+    "chapter": 22,
+    "front": "What is the first imaging test for differences of sex development?",
+    "back": "Pelvic ultrasound, to find a uterus and gonads and their position."
+  },
+  {
+    "id": 345,
+    "chapter": 22,
+    "front": "What are the adrenal findings in congenital adrenal hyperplasia?",
+    "back": "Enlarged adrenal glands with a cerebriform surface pattern."
+  },
+  {
+    "id": 346,
+    "chapter": 22,
+    "front": "What suggests precocious puberty on pelvic ultrasound?",
+    "back": "A pubertal uterine shape with a visible stripe and enlarged ovaries with follicles before the expected age."
+  },
+  {
+    "id": 347,
+    "chapter": 22,
+    "front": "Why can a newborn girl's uterus look large?",
+    "back": "Maternal estrogen briefly enlarges it and thickens the endometrium, which regresses in weeks."
+  },
+  {
+    "id": 348,
+    "chapter": 22,
+    "front": "What is the classic appearance of an ovarian simple cyst?",
+    "back": "A thin-walled anechoic cyst with through transmission, usually physiologic and self-resolving."
+  },
+  {
+    "id": 349,
+    "chapter": 22,
+    "front": "What is a hemorrhagic ovarian cyst?",
+    "back": "A cyst with a reticular or lace-like internal pattern that retracts over time and has no internal flow."
+  },
+  {
+    "id": 350,
+    "chapter": 22,
+    "front": "What are signs of a cyst complicated by torsion?",
+    "back": "A cyst too large with ovarian enlargement, a twisted pedicle, and free fluid that suggest the ovary is twisted."
+  },
+  {
+    "id": 351,
+    "chapter": 23,
+    "front": "What is a toddler fracture?",
+    "back": "A nondisplaced spiral fracture of the tibial shaft in a young child who limps or refuses to bear weight."
+  },
+  {
+    "id": 352,
+    "chapter": 23,
+    "front": "What is Salter-Harris type I?",
+    "back": "A fracture through the physis only, often with normal radiographs and diagnosed from tenderness and swelling."
+  },
+  {
+    "id": 353,
+    "chapter": 23,
+    "front": "What is Salter-Harris type II?",
+    "back": "A fracture through the physis and metaphysis, the most common type, with a metaphyseal fragment."
+  },
+  {
+    "id": 354,
+    "chapter": 23,
+    "front": "What is Salter-Harris type III?",
+    "back": "A fracture through the physis and epiphysis that enters the joint."
+  },
+  {
+    "id": 355,
+    "chapter": 23,
+    "front": "What is Salter-Harris type IV?",
+    "back": "A fracture through the metaphysis, physis, and epiphysis that can disturb growth."
+  },
+  {
+    "id": 356,
+    "chapter": 23,
+    "front": "What is Salter-Harris type V?",
+    "back": "A crush injury to the physis, often recognized late when growth arrest appears."
+  },
+  {
+    "id": 357,
+    "chapter": 23,
+    "front": "What is a buckle fracture?",
+    "back": "An incomplete compression injury of the metaphysis that buckles the cortex without a complete break."
+  },
+  {
+    "id": 358,
+    "chapter": 23,
+    "front": "What is a greenstick fracture?",
+    "back": "An incomplete fracture where one cortex breaks and the other bends."
+  },
+  {
+    "id": 359,
+    "chapter": 23,
+    "front": "What is plastic bowing?",
+    "back": "Bending of a bone without a visible cortical break, usually in the forearm."
+  },
+  {
+    "id": 360,
+    "chapter": 23,
+    "front": "What is a classic metaphyseal lesion?",
+    "back": "A corner or bucket-handle fracture at a long bone end, highly specific for abusive injury in infants."
+  },
+  {
+    "id": 361,
+    "chapter": 23,
+    "front": "Why can stress fractures have normal early radiographs?",
+    "back": "Repeated loading causes microinjury before visible bone change, and MRI is more sensitive early."
+  },
+  {
+    "id": 362,
+    "chapter": 23,
+    "front": "What is an avulsion fracture?",
+    "back": "A fragment pulled off an apophysis by a tendon or ligament, common at the pelvis in adolescent athletes."
+  },
+  {
+    "id": 363,
+    "chapter": 23,
+    "front": "What signs show a fracture healing?",
+    "back": "Periosteal new bone, soft callus, and a fading fracture line over weeks."
+  },
+  {
+    "id": 364,
+    "chapter": 23,
+    "front": "Why is the physis weaker than the ligaments?",
+    "back": "Physeal cartilage is a weak point, so trauma that sprains an adult ligament may fracture a child's growth plate."
+  },
+  {
+    "id": 365,
+    "chapter": 23,
+    "front": "What elbow signs suggest an occult fracture after trauma?",
+    "back": "A posterior fat pad, or an elevated sail-shaped anterior fat pad, showing a joint effusion."
+  },
+  {
+    "id": 366,
+    "chapter": 24,
+    "front": "What are the radiographic signs of rickets?",
+    "back": "Widened physes, and frayed, cupped, splayed metaphyses at the wrists and knees, with bowing."
+  },
+  {
+    "id": 367,
+    "chapter": 24,
+    "front": "Where is rickets seen earliest?",
+    "back": "At the fast-growing sites, especially the distal radius and ulna and the knees."
+  },
+  {
+    "id": 368,
+    "chapter": 24,
+    "front": "What is the usual cause of nutritional rickets?",
+    "back": "Vitamin D deficiency, sometimes with low calcium or phosphorus."
+  },
+  {
+    "id": 369,
+    "chapter": 24,
+    "front": "What are the signs of scurvy?",
+    "back": "A dense zone of provisional calcification, a ring epiphysis, subperiosteal hemorrhage, and a lucent zone beneath the dense line."
+  },
+  {
+    "id": 370,
+    "chapter": 24,
+    "front": "What is achondroplasia?",
+    "back": "The most common nonlethal skeletal dysplasia, with rhizomelic shortening, a narrowed interpediculate distance, and a small foramen magnum."
+  },
+  {
+    "id": 371,
+    "chapter": 24,
+    "front": "What is the interpediculate distance sign?",
+    "back": "The distance between pedicles fails to widen down the lumbar spine in achondroplasia."
+  },
+  {
+    "id": 372,
+    "chapter": 24,
+    "front": "What are the features of osteogenesis imperfecta?",
+    "back": "Fragile osteopenic bones, fractures with minimal trauma, wormian bones, and blue sclerae."
+  },
+  {
+    "id": 373,
+    "chapter": 24,
+    "front": "How do bone infarction and osteomyelitis differ in sickle cell disease?",
+    "back": "Infarction is more common, and MRI helps tell them apart, though the two can look alike."
+  },
+  {
+    "id": 374,
+    "chapter": 24,
+    "front": "When do radiographs show acute osteomyelitis?",
+    "back": "Soft tissue swelling first, with bone changes appearing after about a week."
+  },
+  {
+    "id": 375,
+    "chapter": 24,
+    "front": "What does osteopetrosis look like?",
+    "back": "Diffuse dense bones with a bone-within-bone appearance and Erlenmeyer flask deformity."
+  },
+  {
+    "id": 376,
+    "chapter": 24,
+    "front": "What is a growth arrest line?",
+    "back": "A dense transverse band in the metaphysis that forms after illness or another temporary growth disturbance."
+  },
+  {
+    "id": 377,
+    "chapter": 24,
+    "front": "What marrow findings can leukemia cause on radiographs?",
+    "back": "Diffuse osteopenia, lucent metaphyseal bands, periosteal reaction, and lytic lesions."
+  },
+  {
+    "id": 378,
+    "chapter": 24,
+    "front": "What is a wormian bone?",
+    "back": "An accessory sutural bone in the skull, seen in osteogenesis imperfecta and several other conditions."
+  },
+  {
+    "id": 379,
+    "chapter": 24,
+    "front": "What is rhizomelic shortening?",
+    "back": "Disproportionate shortening of the proximal limb segments, the femur and humerus, as in achondroplasia."
+  },
+  {
+    "id": 380,
+    "chapter": 24,
+    "front": "What is thanatophoric dysplasia?",
+    "back": "A lethal skeletal dysplasia with a small thorax, platyspondyly, and telephone receiver femora."
+  },
+  {
+    "id": 381,
+    "chapter": 25,
+    "front": "What is developmental dysplasia of the hip?",
+    "back": "A failure of the socket and femoral head to form a stable relationship, ranging from mild instability to complete dislocation."
+  },
+  {
+    "id": 382,
+    "chapter": 25,
+    "front": "Name four risk factors for developmental dysplasia of the hip.",
+    "back": "Breech position, family history, tight swaddling with legs together, and female sex."
+  },
+  {
+    "id": 383,
+    "chapter": 25,
+    "front": "Why is ultrasound used for the infant hip before ossification?",
+    "back": "The femoral head is mostly cartilage and invisible on radiographs, but ultrasound shows coverage and stability."
+  },
+  {
+    "id": 384,
+    "chapter": 25,
+    "front": "What does the dynamic part of an infant hip ultrasound assess?",
+    "back": "Whether the femoral head can be pushed out of the socket and whether it returns when pressure is released."
+  },
+  {
+    "id": 385,
+    "chapter": 25,
+    "front": "What should a report say about an infant hip study?",
+    "back": "State whether the head is centered, adequately covered, and stable, and name any angle or grading method used."
+  },
+  {
+    "id": 386,
+    "chapter": 25,
+    "front": "What is Legg-Calve-Perthes disease?",
+    "back": "Avascular necrosis of the proximal femoral epiphysis, usually in younger children, causing pain and a limp."
+  },
+  {
+    "id": 387,
+    "chapter": 25,
+    "front": "Why can MRI help in early Perthes disease?",
+    "back": "It shows marrow edema or loss of normal epiphyseal signal before radiographs show deformity."
+  },
+  {
+    "id": 388,
+    "chapter": 25,
+    "front": "What is slipped capital femoral epiphysis?",
+    "back": "Slippage of the femoral head through the growth plate, mostly posteriorly and downward, seen in older children and adolescents."
+  },
+  {
+    "id": 389,
+    "chapter": 25,
+    "front": "Which view best shows a slipped capital femoral epiphysis when the frontal film looks normal?",
+    "back": "A frog-leg or cross-table lateral view, which shows the posterior displacement more clearly."
+  },
+  {
+    "id": 390,
+    "chapter": 25,
+    "front": "What is the difference between a stable and an unstable slip?",
+    "back": "Stable slips allow weight bearing, and unstable slips do not, even with crutches, carrying higher avascular necrosis risk."
+  },
+  {
+    "id": 391,
+    "chapter": 25,
+    "front": "What should be done about the opposite hip in slipped capital femoral epiphysis?",
+    "back": "Examine it closely on every study, because the condition often becomes bilateral over time."
+  },
+  {
+    "id": 392,
+    "chapter": 25,
+    "front": "Why can a child with an unexplained limp and fever need hip aspiration?",
+    "back": "Septic arthritis can show the same effusion as transient synovitis, so clinical features guide aspiration."
+  },
+  {
+    "id": 393,
+    "chapter": 25,
+    "front": "Which Salter-Harris type is most common and what does it involve?",
+    "back": "Type II, a fracture through the physis that exits through the metaphysis."
+  },
+  {
+    "id": 394,
+    "chapter": 25,
+    "front": "How does a physeal bar present and how is it assessed?",
+    "back": "As progressive angulation or shortening after injury, and CT or MRI maps its size and position."
+  },
+  {
+    "id": 395,
+    "chapter": 25,
+    "front": "How does Blount disease differ from rickets as a cause of bowing?",
+    "back": "Blount disease shows medial proximal tibial irregularity, while rickets shows widened, frayed growth plates."
+  },
+  {
+    "id": 396,
+    "chapter": 26,
+    "front": "What is osteomyelitis?",
+    "back": "Infection of bone, spread through the blood or from an adjacent wound."
+  },
+  {
+    "id": 397,
+    "chapter": 26,
+    "front": "What is septic arthritis?",
+    "back": "Infection inside a joint, causing swelling and pain with almost any movement."
+  },
+  {
+    "id": 398,
+    "chapter": 26,
+    "front": "Why are early radiographs poor for osteomyelitis?",
+    "back": "They are often normal at first, and bone destruction, periosteal reaction, or sclerosis appears weeks later."
+  },
+  {
+    "id": 399,
+    "chapter": 26,
+    "front": "Which modality is most sensitive for early osteomyelitis?",
+    "back": "MRI, which shows early marrow edema, abscess, and joint involvement."
+  },
+  {
+    "id": 400,
+    "chapter": 26,
+    "front": "What is a sequestrum?",
+    "back": "A piece of dead bone surrounded by inflammation, seen in chronic infection."
+  },
+  {
+    "id": 401,
+    "chapter": 26,
+    "front": "What is a sinus tract in chronic osteomyelitis?",
+    "back": "A channel from the infected bone that drains to the skin."
+  },
+  {
+    "id": 402,
+    "chapter": 26,
+    "front": "How does a child with septic arthritis of the hip typically present?",
+    "back": "Fever, a hip held flexed, and refusal to walk."
+  },
+  {
+    "id": 403,
+    "chapter": 26,
+    "front": "What role does ultrasound play in septic arthritis?",
+    "back": "It detects joint fluid and guides aspiration, but cannot exclude infection."
+  },
+  {
+    "id": 404,
+    "chapter": 26,
+    "front": "Why must septic arthritis be treated urgently?",
+    "back": "Delay can injure the growth plate and joint cartilage, so prompt drainage and antibiotics preserve function."
+  },
+  {
+    "id": 405,
+    "chapter": 26,
+    "front": "What should the report mention in septic arthritis?",
+    "back": "Physeal involvement and any subluxation of the joint."
+  },
+  {
+    "id": 406,
+    "chapter": 26,
+    "front": "What does juvenile idiopathic arthritis show on imaging?",
+    "back": "Effusion, synovial thickening, growth disturbance, and in chronic disease erosions or premature physeal closure."
+  },
+  {
+    "id": 407,
+    "chapter": 26,
+    "front": "Which imaging study shows active inflammation in juvenile idiopathic arthritis?",
+    "back": "MRI with contrast."
+  },
+  {
+    "id": 408,
+    "chapter": 26,
+    "front": "What is chronic recurrent multifocal osteomyelitis?",
+    "back": "An inflammatory bone disease with multiple lesions and a relapsing course that can mimic infection and tumor."
+  },
+  {
+    "id": 409,
+    "chapter": 26,
+    "front": "Why should not every bone lesion be called infection?",
+    "back": "Inflammatory disease and tumor can look the same, so clinical and laboratory support are needed."
+  },
+  {
+    "id": 410,
+    "chapter": 26,
+    "front": "What is Langerhans cell histiocytosis in bone?",
+    "back": "A disease producing lytic lesions that mimic infection or tumor, often needing biopsy."
+  },
+  {
+    "id": 411,
+    "chapter": 27,
+    "front": "What features are used to interpret a pediatric bone lesion?",
+    "back": "Age, skeletal location, margin, matrix, and periosteal reaction."
+  },
+  {
+    "id": 412,
+    "chapter": 27,
+    "front": "What does a narrow zone of transition suggest?",
+    "back": "A well-defined lesion with a narrow zone of transition is often benign."
+  },
+  {
+    "id": 413,
+    "chapter": 27,
+    "front": "Which features raise concern for malignancy or infection?",
+    "back": "Wide zone of transition, cortical destruction, aggressive periosteal reaction, or soft-tissue extension."
+  },
+  {
+    "id": 414,
+    "chapter": 27,
+    "front": "What is a nonossifying fibroma?",
+    "back": "A common benign lucent metaphyseal lesion with a sclerotic rim, often incidental and healing after maturity."
+  },
+  {
+    "id": 415,
+    "chapter": 27,
+    "front": "What is a unicameral bone cyst?",
+    "back": "A fluid-filled lesion that can cause pathologic fracture and show a fallen-fragment sign."
+  },
+  {
+    "id": 416,
+    "chapter": 27,
+    "front": "What is the fallen-fragment sign?",
+    "back": "A cortical fragment lying in the dependent part of a fractured bone cyst."
+  },
+  {
+    "id": 417,
+    "chapter": 27,
+    "front": "What is an osteochondroma?",
+    "back": "A bony projection with a cartilage cap that can cause pain or mechanical irritation."
+  },
+  {
+    "id": 418,
+    "chapter": 27,
+    "front": "What is hereditary multiple exostoses?",
+    "back": "A condition with multiple osteochondromas that can affect growth and cause compression."
+  },
+  {
+    "id": 419,
+    "chapter": 27,
+    "front": "Where does osteosarcoma typically occur?",
+    "back": "In the metaphysis of a long bone in an older child or adolescent."
+  },
+  {
+    "id": 420,
+    "chapter": 27,
+    "front": "What does osteosarcoma look like on imaging?",
+    "back": "Bone formation, destruction, and aggressive periosteal reaction, with MRI defining extent and growth plate relationship."
+  },
+  {
+    "id": 421,
+    "chapter": 27,
+    "front": "Where does Ewing sarcoma often arise and what does it mimic?",
+    "back": "In the diaphysis, with a large soft-tissue mass, and it can mimic osteomyelitis."
+  },
+  {
+    "id": 422,
+    "chapter": 27,
+    "front": "How is Ewing sarcoma staged?",
+    "back": "Imaging of the primary site plus a metastatic survey, after biopsy for diagnosis."
+  },
+  {
+    "id": 423,
+    "chapter": 27,
+    "front": "What can ultrasound tell about a soft-tissue mass?",
+    "back": "Whether it is cystic, solid, or vascular."
+  },
+  {
+    "id": 424,
+    "chapter": 27,
+    "front": "Why is MRI used for solid soft-tissue masses?",
+    "back": "It defines extent and relationship to nerves and vessels."
+  },
+  {
+    "id": 425,
+    "chapter": 27,
+    "front": "How does infantile hemangioma differ from venous and lymphatic malformations?",
+    "back": "Hemangioma grows early then involutes, while malformations are present at birth and grow with the child."
+  },
+  {
+    "id": 426,
+    "chapter": 28,
+    "front": "What is the purpose of imaging in suspected child abuse?",
+    "back": "To describe injuries, judge fit with the stated mechanism, find additional injuries, and inform the child protection team."
+  },
+  {
+    "id": 427,
+    "chapter": 28,
+    "front": "How should the radiology report phrase the mechanism?",
+    "back": "Quote it as provided and avoid accusatory language, such as noting the mechanism does not explain the pattern."
+  },
+  {
+    "id": 428,
+    "chapter": 28,
+    "front": "Who should obtain the history?",
+    "back": "The appropriate clinical team, not an interrogation in the imaging department."
+  },
+  {
+    "id": 429,
+    "chapter": 28,
+    "front": "Which fractures are highly specific for abuse in a nonwalking child?",
+    "back": "Metaphyseal corner fractures, rib fractures, and fractures in different stages of healing."
+  },
+  {
+    "id": 430,
+    "chapter": 28,
+    "front": "Does a normal radiograph exclude abuse?",
+    "back": "No, because internal, head, or soft-tissue injury can occur without a bone finding."
+  },
+  {
+    "id": 431,
+    "chapter": 28,
+    "front": "What is a skeletal survey?",
+    "back": "A series of radiographs of the skull, spine, ribs, pelvis, and long bones."
+  },
+  {
+    "id": 432,
+    "chapter": 28,
+    "front": "In whom is a skeletal survey usually done?",
+    "back": "Children younger than 2 years when abuse is suspected, and sometimes older children by clinical findings."
+  },
+  {
+    "id": 433,
+    "chapter": 28,
+    "front": "Which areas should be reviewed systematically on a survey?",
+    "back": "Metaphyses, posterior ribs, skull, spine, and acromial and pelvic regions."
+  },
+  {
+    "id": 434,
+    "chapter": 28,
+    "front": "What is the value of a follow-up skeletal survey?",
+    "back": "It can reveal healing fractures not visible on the first study."
+  },
+  {
+    "id": 435,
+    "chapter": 28,
+    "front": "What injuries can abusive head trauma cause?",
+    "back": "Subdural hemorrhage, brain swelling, hypoxic injury, and retinal hemorrhage."
+  },
+  {
+    "id": 436,
+    "chapter": 28,
+    "front": "When is urgent head CT needed?",
+    "back": "Altered consciousness, seizures, apnea, or a concerning injury."
+  },
+  {
+    "id": 437,
+    "chapter": 28,
+    "front": "What does MRI add after the initial CT in head trauma?",
+    "back": "It defines extent of brain injury and age of blood products but does not replace emergency CT."
+  },
+  {
+    "id": 438,
+    "chapter": 28,
+    "front": "Why can abdominal injury be missed?",
+    "back": "Liver, spleen, pancreatic, or bowel injury can exist without external bruising."
+  },
+  {
+    "id": 439,
+    "chapter": 28,
+    "front": "What should an abdominal CT report describe?",
+    "back": "Free fluid, solid-organ injury, bowel-wall hematoma, and any sign of perforation."
+  },
+  {
+    "id": 440,
+    "chapter": 28,
+    "front": "Name medical mimics of abuse.",
+    "back": "Osteogenesis imperfecta, metabolic bone disease, birth trauma, and certain hematologic disorders."
+  },
+  {
+    "id": 441,
+    "chapter": 29,
+    "front": "What are the primary survey priorities in pediatric trauma?",
+    "back": "Airway, breathing, circulation, disability, and exposure. Imaging should never delay resuscitation."
+  },
+  {
+    "id": 442,
+    "chapter": 29,
+    "front": "Why is FAST useful in an unstable injured child?",
+    "back": "It finds free peritoneal or pericardial fluid at the bedside in seconds without moving the child."
+  },
+  {
+    "id": 443,
+    "chapter": 29,
+    "front": "What limits FAST in children?",
+    "back": "It is less sensitive for solid-organ injury without free fluid and cannot reliably show bowel or retroperitoneal injury."
+  },
+  {
+    "id": 444,
+    "chapter": 29,
+    "front": "When is CT chosen in pediatric trauma?",
+    "back": "When the child is stable enough to travel and the result will change management."
+  },
+  {
+    "id": 445,
+    "chapter": 29,
+    "front": "What does contrast-enhanced CT show in solid-organ trauma?",
+    "back": "Lacerations, hematoma, active extravasation, and pseudoaneurysm, which determine grade and need for intervention."
+  },
+  {
+    "id": 446,
+    "chapter": 29,
+    "front": "What should a trauma report of a liver or spleen injury include?",
+    "back": "The injury grade, amount of blood, any active bleeding, and whether intervention or repeat imaging is needed."
+  },
+  {
+    "id": 447,
+    "chapter": 29,
+    "front": "Why can bowel and mesenteric injury be missed?",
+    "back": "Findings are subtle, such as free fluid without solid-organ injury, bowel wall thickening, or mesenteric stranding."
+  },
+  {
+    "id": 448,
+    "chapter": 29,
+    "front": "What is a Chance fracture?",
+    "back": "A flexion-distraction vertebral fracture from a lap belt, associated with bowel and mesenteric injury."
+  },
+  {
+    "id": 449,
+    "chapter": 29,
+    "front": "Why can pulmonary contusion occur without rib fractures in a child?",
+    "back": "The chest wall is flexible and transmits force directly to the lung."
+  },
+  {
+    "id": 450,
+    "chapter": 29,
+    "front": "When does pulmonary contusion usually become visible?",
+    "back": "It may be subtle at first and often becomes more evident over the first hours after injury."
+  },
+  {
+    "id": 451,
+    "chapter": 29,
+    "front": "Which chest radiograph findings suggest aortic injury?",
+    "back": "Wide mediastinum, indistinct aortic knob, and tracheal or nasogastric tube deviation, prompting CT angiography."
+  },
+  {
+    "id": 452,
+    "chapter": 29,
+    "front": "What does a posterior fat pad suggest after elbow trauma?",
+    "back": "An effusion from an occult fracture, most often supracondylar, so treat as fracture."
+  },
+  {
+    "id": 453,
+    "chapter": 29,
+    "front": "What is a torus fracture?",
+    "back": "A stable buckle of the metaphyseal cortex, usually treated with simple immobilization."
+  },
+  {
+    "id": 454,
+    "chapter": 29,
+    "front": "Why are growth plates a concern in injured children?",
+    "back": "The physis can fail before ligaments, so physeal fractures must be sought and classified."
+  },
+  {
+    "id": 455,
+    "chapter": 29,
+    "front": "Which imaging evaluates suspected child abuse in infants?",
+    "back": "A dedicated skeletal survey with coned views, often repeated about two weeks later to find occult fractures."
+  },
+  {
+    "id": 456,
+    "chapter": 30,
+    "front": "Which pediatric tumor typically encases vessels and calcifies?",
+    "back": "Neuroblastoma, which also crosses the midline and elevates urine catecholamines."
+  },
+  {
+    "id": 457,
+    "chapter": 30,
+    "front": "How does Wilms tumor differ from neuroblastoma on imaging?",
+    "back": "It arises from the kidney, shows the claw sign, displaces vessels, and rarely calcifies."
+  },
+  {
+    "id": 458,
+    "chapter": 30,
+    "front": "What is the claw sign?",
+    "back": "Renal parenchyma wrapping around a mass, showing the mass arises from the kidney."
+  },
+  {
+    "id": 459,
+    "chapter": 30,
+    "front": "What must be checked in Wilms tumor staging?",
+    "back": "Renal vein and IVC extension, the contralateral kidney, and lung metastases."
+  },
+  {
+    "id": 460,
+    "chapter": 30,
+    "front": "What imaging detects MIBG-avid neuroblastoma disease?",
+    "back": "MIBG scintigraphy, with CT or MRI for the primary tumor and vessel relationships."
+  },
+  {
+    "id": 461,
+    "chapter": 30,
+    "front": "What does FDG PET/CT add in lymphoma follow-up?",
+    "back": "It shows whether residual tissue is metabolically active tumor or scar."
+  },
+  {
+    "id": 462,
+    "chapter": 30,
+    "front": "What does a halo sign in a neutropenic child suggest?",
+    "back": "Invasive fungal infection, typically aspergillosis, requiring prompt antifungal therapy."
+  },
+  {
+    "id": 463,
+    "chapter": 30,
+    "front": "How does treatment effect differ from recurrence on brain MRI?",
+    "back": "Effect is often stable or resolving with low perfusion, while recurrence enlarges with high perfusion and restricted diffusion."
+  },
+  {
+    "id": 464,
+    "chapter": 30,
+    "front": "What is osteonecrosis in cancer survivors?",
+    "back": "Bone death, often at the femoral head, from steroids and chemotherapy, detected early by MRI."
+  },
+  {
+    "id": 465,
+    "chapter": 30,
+    "front": "Which late effect needs thyroid ultrasound surveillance?",
+    "back": "Nodules and cancer after radiation to the neck or chest."
+  },
+  {
+    "id": 466,
+    "chapter": 30,
+    "front": "Which late effect needs echocardiography?",
+    "back": "Cardiomyopathy and valve disease after anthracyclines or chest radiation."
+  },
+  {
+    "id": 467,
+    "chapter": 30,
+    "front": "Why prefer ultrasound or MRI in surveillance?",
+    "back": "They avoid cumulative radiation while answering many follow-up questions."
+  },
+  {
+    "id": 468,
+    "chapter": 30,
+    "front": "What are common imaging mimics of recurrence?",
+    "back": "Treatment effect such as scar, necrosis, and postoperative change, and infection in immunosuppressed children."
+  },
+  {
+    "id": 469,
+    "chapter": 30,
+    "front": "Why is baseline imaging important in cancer care?",
+    "back": "It defines disease extent and allows measurement of response on later studies."
+  },
+  {
+    "id": 470,
+    "chapter": 30,
+    "front": "What should a response report compare against?",
+    "back": "The prior and baseline studies using consistent measurement methods and modality."
+  },
+  {
+    "id": 471,
+    "chapter": 31,
+    "front": "What should be checked before a pediatric biopsy?",
+    "back": "Coagulation status, sedation or anesthesia plan, imaging guidance, and consent."
+  },
+  {
+    "id": 472,
+    "chapter": 31,
+    "front": "Why prefer ultrasound guidance in children?",
+    "back": "It gives real-time needle visualization without ionizing radiation."
+  },
+  {
+    "id": 473,
+    "chapter": 31,
+    "front": "What is the standard treatment of a drainable abscess?",
+    "back": "Image-guided catheter drainage with fluid culture, plus antibiotics."
+  },
+  {
+    "id": 474,
+    "chapter": 31,
+    "front": "What is sclerotherapy?",
+    "back": "Injection of an agent into a malformation to shrink it, used for venous and lymphatic malformations."
+  },
+  {
+    "id": 475,
+    "chapter": 31,
+    "front": "What is embolization?",
+    "back": "Blocking blood vessels to stop bleeding or shrink a lesion."
+  },
+  {
+    "id": 476,
+    "chapter": 31,
+    "front": "What confirms central line placement?",
+    "back": "Imaging of the catheter tip position, plus ultrasound guidance during access."
+  },
+  {
+    "id": 477,
+    "chapter": 31,
+    "front": "Why is an esophageal coin urgent?",
+    "back": "It can obstruct and injure the esophageal wall within hours."
+  },
+  {
+    "id": 478,
+    "chapter": 31,
+    "front": "Why are multiple magnets dangerous?",
+    "back": "They can attract through bowel walls and cause perforation."
+  },
+  {
+    "id": 479,
+    "chapter": 31,
+    "front": "Why is MRI avoided for magnet ingestion?",
+    "back": "Ferromagnetic objects can move and injure tissue in the scanner."
+  },
+  {
+    "id": 480,
+    "chapter": 31,
+    "front": "What is the most common complication of lung biopsy?",
+    "back": "Pneumothorax, found on radiograph or ultrasound."
+  },
+  {
+    "id": 481,
+    "chapter": 31,
+    "front": "What follows drain placement?",
+    "back": "Position check and monitoring for bleeding, leak, or residual collection."
+  },
+  {
+    "id": 482,
+    "chapter": 31,
+    "front": "Why plan to do a procedure once?",
+    "back": "It limits repeated sedation, anesthesia, and radiation exposure."
+  },
+  {
+    "id": 483,
+    "chapter": 31,
+    "front": "Why involve a child life specialist?",
+    "back": "Preparation and distraction improve cooperation and may reduce the need for deeper sedation."
+  },
+  {
+    "id": 484,
+    "chapter": 31,
+    "front": "What is the role of fasting guidelines?",
+    "back": "They reduce aspiration risk when sedation or anesthesia is planned."
+  },
+  {
+    "id": 485,
+    "chapter": 31,
+    "front": "What should a procedure note include?",
+    "back": "Indication, technique, findings, specimens sent, complications, and follow-up plan."
+  },
+  {
+    "id": 486,
+    "chapter": 32,
+    "front": "What is the most important part of a radiology report?",
+    "back": "The impression, giving the diagnosis or differential and the recommended next step."
+  },
+  {
+    "id": 487,
+    "chapter": 32,
+    "front": "What is a critical result?",
+    "back": "A finding that needs urgent action, such as pneumothorax, to be communicated directly and documented."
+  },
+  {
+    "id": 488,
+    "chapter": 32,
+    "front": "What should be documented for critical communication?",
+    "back": "What was found, who was told, and when."
+  },
+  {
+    "id": 489,
+    "chapter": 32,
+    "front": "What does ALARA mean?",
+    "back": "As low as reasonably achievable, using the lowest dose that answers the question."
+  },
+  {
+    "id": 490,
+    "chapter": 32,
+    "front": "Why are children more sensitive to radiation?",
+    "back": "Their tissues are more radiosensitive and they live longer to develop late effects."
+  },
+  {
+    "id": 491,
+    "chapter": 32,
+    "front": "Which modality is first for suspected intussusception?",
+    "back": "Ultrasound, which shows the target sign without radiation."
+  },
+  {
+    "id": 492,
+    "chapter": 32,
+    "front": "What is peer review in radiology?",
+    "back": "Systematic review of reports to find discrepancies and improve quality."
+  },
+  {
+    "id": 493,
+    "chapter": 32,
+    "front": "Why use structured reporting?",
+    "back": "It standardizes content and makes reports clearer and easier to compare."
+  },
+  {
+    "id": 494,
+    "chapter": 32,
+    "front": "Why avoid vague hedging language?",
+    "back": "It leaves clinicians without clear direction and reduces report value."
+  },
+  {
+    "id": 495,
+    "chapter": 32,
+    "front": "What is the first step in an exam question?",
+    "back": "Identify the age and the key finding before choosing a diagnosis."
+  },
+  {
+    "id": 496,
+    "chapter": 32,
+    "front": "How should a CT protocol be chosen for children?",
+    "back": "Use a weight-based pediatric protocol with limited scan range."
+  },
+  {
+    "id": 497,
+    "chapter": 32,
+    "front": "What should follow an unexpected high dose event?",
+    "back": "Protocol review, dose recording, and corrective action."
+  },
+  {
+    "id": 498,
+    "chapter": 32,
+    "front": "Why consider alternatives to CT in children?",
+    "back": "Ultrasound and MRI answer many questions without ionizing radiation."
+  },
+  {
+    "id": 499,
+    "chapter": 32,
+    "front": "What is a good recommendation line?",
+    "back": "A specific next step, such as consultation or a named follow-up study."
+  },
+  {
+    "id": 500,
+    "chapter": 32,
+    "front": "What does a follow-up recommendation need?",
+    "back": "A clear modality and timeframe."
+  }
+]
